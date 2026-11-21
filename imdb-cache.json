@@ -1,0 +1,290 @@
+{
+ "movie|colony|2026": {
+  "id": "tt34385135",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|premada oorali|2026": {
+  "id": "tt33381528",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg2M2E5NWUtM2FlYS00OGRlLTk3YWEtMWU5MDhlMWIyMDEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the vvaan|2026": {
+  "id": "tt34498564",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YWZlMjUtNDI1Zi00YjRjLTg2YzctMGU1MTkxMWU5M2U5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the odyssey|2026": {
+  "id": "tt33764258",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|altman|2014": {
+  "id": "tt2404171",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNDQyNzczOF5BMl5BanBnXkFtZTgwOTkwOTc5MTE@._V1_.jpg"
+ },
+ "movie|bob trevino likes it|2025": {
+  "id": "tt28613536",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI2Yzg2MmYtMmI0Mi00ZWYwLThjMGItZTQ3MmExODFiMjI3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the look of silence|2014": {
+  "id": "tt3521134",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMwMjI4MjQ3MF5BMl5BanBnXkFtZTgwMjkwOTM2NTE@._V1_.jpg"
+ },
+ "movie|analyze this|1999": {
+  "id": "tt0122933",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJmZTNmMmQtYWM2MC00YzM5LWI5MGEtODRmZTgzNDAyN2FjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|on behalf of my son|2026": {
+  "id": "tt33402927",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWM0MGRmOWMtMWNjMi00YzRlLTk4YzItZmJkZTQxNWY2YThiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|perfect liars|2026": {
+  "id": "tt18351090",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM4ZWUwODYtMDVlNC00Njc3LThkZDAtZDA4NTU5YzliYWZjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the voice of hind rajab|2025": {
+  "id": "tt36943034",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWVlM2RjYTctODU4Mi00NTQzLWEzMDktZGVmYTQ2NTEwOWFiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|steps|2026": {
+  "id": "tt14413964",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQyNjk2NmUtZWZlYi00ZDY4LWExYzgtNDY1ZGY3YTA2NDhlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|primetime preacher|2026": {
+  "id": "tt48434154",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRmNmFlZTMtN2E2NC00OGFhLTllN2MtMjE2NzlhZDQyNTUwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|418|2026": {
+  "id": "tt38984184",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY5NmU2ZjYtODhmYi00NGIyLWI4YTUtZjUwY2I4MWE4ZGYwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the death of robin hood|2026": {
+  "id": "tt32273171",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|son of rambow|2007": {
+  "id": "tt0845046",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MjM0ODc5N15BMl5BanBnXkFtZTcwMjMxMDg1MQ@@._V1_.jpg"
+ },
+ "movie|children of heaven|2026": {
+  "id": "tt37498793",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2MxZDI3OWEtZDNjNC00YTViLTg2M2ItYzA2NzA1MzkxN2I4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|attack of the kraken|2026": {
+  "id": "tt39216132",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg3NTFkNjItYWJjOS00ZTQ4LWIwMWItNjQwMTlhZTA0ZDU1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|when a witness recants|2026": {
+  "id": "tt39163238",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA1YjAyZWMtZmE1MC00MTBkLTkyNzEtZjU5YTIwZTRiY2UxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|gentle monster|2026": {
+  "id": "tt37020296",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmU1MWE5MjUtZTE3Ni00NGYzLWIyZTktN2E3ZGNlZjRhMTk2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the parent trap|1961": {
+  "id": "tt0055277",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc5NGU5OTEtODFiYi00ZTdmLWE5M2EtMDQ4ZmQ3NTExZDNmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|appofeniacs|2026": {
+  "id": "tt29870331",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQyYjEyMmYtYjFjYS00OTU0LWIwMWUtYzIyYjMxNTI2YjA0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|ark exitus|2020": {
+  "id": "tt13370002",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNkNGFhZmQtMzg1NC00NDVmLWJiYTEtYWFlNjJkMDI0ZThiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|long haired businessmen|2026": {
+  "id": "tt34570050",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAwNDA4ZDQtOTFiNy00NmMyLThmZTUtYTIxNTE3NDc4ZWQwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the true beauty of being bitten by a tick|2025": {
+  "id": "tt33578667",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDkwMTEzMTEtNWI0YS00ZThmLThiNDktMmQ1ZTNlYWM5Y2Q3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|cool books|2026": {
+  "id": "tt37438659",
+  "poster": ""
+ },
+ "movie|urban legends bloody mary|2005": {
+  "id": "tt0451957",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWIxZTZlMDgtNmMzNy00MWIxLWJlN2EtY2EyNTA4NjczYTAwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the christophers|2026": {
+  "id": "tt34966562",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjgyOTAtYjRlNS00NmE4LWE2YTgtZDcxNTBhZGVmMGVlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|no rest for the wicked|2026": {
+  "id": "tt35669487",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWE2NTU4ZTYtMWQxMy00MGQ1LWI5MjMtMTEzNzZmN2YwMDA3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|maltratada|2026": {
+  "id": "tt47739645",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjRjZGY3ZDItNzQwMi00ODUwLWI5MjAtNDU4OTIyMjNjMjgyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|whatever it takes|2026": {
+  "id": "tt43729729",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQxY2FjYWItNzdlYi00MzIxLWFhMzAtZmI4Mzk0MzNlZDZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|one last shot|2026": {
+  "id": "tt37971717",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ5NzhmYWUtMWE3MS00MmI0LThjZjEtN2ZkZDk2MGIyMzM1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|rolling loud the movie|2026": {
+  "id": "tt33184695",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4MmQ2NzAtMDZhOC00MWNmLTljOTgtODRjZjI0M2VhMWJlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|teenage dirtbag|2009": {
+  "id": "tt1091207",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUwMTc2NTUyMl5BMl5BanBnXkFtZTcwMjI3NTU2Mg@@._V1_.jpg"
+ },
+ "movie|a talent for murder|2026": {
+  "id": "tt14129116",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI2M2I1OTItMWYwMC00N2I0LWFkMDUtNjZhNWZmYmQ0MzI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|n i nai w i p|2024": {
+  "id": "tt26218316",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE1NjdjMGItNjUzNC00NTE3LWEyMTctZTliZjBjYTM3MzdlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|winter of the crow|2026": {
+  "id": "tt30235784",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWNmMDVhNjgtYTJlMy00NDNiLWE0M2EtOTczNjQ0MGYxYmU0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|a newport christmas|2025": {
+  "id": "tt36491858",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNkOTg3NzAtMDg2Ni00OTkwLWExMWYtNGU0YTBjYmU2ZjVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|ever victorious|2023": {
+  "id": "tt30782714",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg3MmU4YmQtZmZjMi00MmQ5LWE2OTQtMzRkMjJlOTNjZjFhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|bill s included|2026": {
+  "id": "tt39276740",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2JjM2JmYzQtYTAwMi00ODRkLWJkZGYtMGY2M2FiNjBkNWRiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the blue road|2026": {
+  "id": "tt38336631",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE2YjI4MDctMTY3YS00ODYyLTgwOTMtZmVkZDljZGQ3OWI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|percy jackson and the olympians|2023": {
+  "id": "tt12324366",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGUwOTQ0ZjMtYzA3NS00YWJiLWE3YzEtOGI1YzNkZGFlOWQ5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the altruists|2026": {
+  "id": "tt36786185",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjczNDNmZWEtMDllMy00OTlkLWIxODctOTY0YWU0M2M1ZDc3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|gordon|2026": {
+  "id": "tt41559886",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTUxMzNlODctNjE4MS00OWJlLWI1NjAtZmJmYzBiNjQ0M2ZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|plein|2026": {
+  "id": "tt49013050",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdiZjY0NDAtYWMyZS00ZmY5LWJhMzQtYmYxOWQ0NjRhNDI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|g nesi|2026": {
+  "id": "tt38483587",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhiN2YyN2ItNmE4Yi00ZGIyLWFiNGUtMGYxN2JhZjkzZmZjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|vienna game|2026": {
+  "id": "tt31844371",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQwZTg2MGUtYzgwNS00ZmM2LTlmNWItYjBkYWI5ZTk0ZjMxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|melania the series|2026": {
+  "id": "tt50666033",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmEzM2UxZmMtNTcwNS00OTdhLTllZjgtMjdmMDNiYjZjYzVhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|valentina and the 12 signs|2026": {
+  "id": "tt39161219",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQwMzVmMzAtNWFkMi00MWM4LWIwN2MtOTEyYzk1MmQyNDg1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|win the mall|2026": {
+  "id": "tt38885478",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjgwNTEyN2ItYzY2MS00MTAxLThiOGUtYmFmNzU2YWFjOTEzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|student of the year after dark|2026": {
+  "id": "tt28450216",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVmNWYzMzMtYzY2Yi00MzIwLWFmZjItYWEyZDFhNzUwZDRhXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|bluey fancy restaurant|2025": {
+  "id": "tt37678086",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAyOGI0YTItOWY2YS00MzA0LWFiZWYtYWFmYTcxOWFmNmIxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the countess of monte cristo|2026": {
+  "id": "tt38688809",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2MwMmRlYTYtMjY2My00NmFhLTg0ZjctNWExOTM4YjRlMzBlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the promised land|2024": {
+  "id": "tt21444192",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2QyMWI5MWYtOWY4NC00MmZjLTg1NWMtYmVmMGI4YjllMjI3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|12 12 12|2026": {
+  "id": "tt32375763",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JiOGUwZjgtYTk5Mi00YzIzLTgxMTYtNmYxNjY3YTZjNDYyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|cunk on cinema|2026": {
+  "id": "tt47021035",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQyMWQzYTUtZDZiZC00NmNkLTg1ZGUtM2Q4MGFjOTFlZmU2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|singapura|2026": {
+  "id": "tt33343182",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgzNGJjMDItMjY5Zi00NDBjLTkzODQtOWU2OWQxMDE3YTZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the good daughter|2026": {
+  "id": "tt31842126",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk5MjI5ODMtZGNmZS00NjFmLTkwZjktOGFiMTQxMjcwMWQ3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|maniacs of truth|2026": {
+  "id": "tt50986266",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Y1NThjNTUtMWY3Ny00MzZlLWE1Y2QtZGYwNjBmMmI4MGVjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|miracles of the er|2026": {
+  "id": "tt39494650",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk2ZTNkMWYtMDAwNC00OGRiLWFhYTgtYTkzYjcxYTY2ZTk2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|hunting alice bell|2026": {
+  "id": "tt37253101",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGM1YTg0ZDYtZGI1ZS00YTMzLWEwNDItNzgzNGFjMWY5MmY3XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|chiaroscuro|2026": {
+  "id": "tt37214564",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjYxMGNhMWUtNzc4ZC00OTBmLWFhZGEtNTA4NjY3M2NiOTQ0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the body|2026": {
+  "id": "tt8014982",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYwZTZiZGEtNjBlOS00MGEzLWI3MmUtMTRhMWM4NzAwYTQ1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|alicia s law|2026": {
+  "id": "tt39390491",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJhMGNmYjEtZjI3ZS00ZjkyLWFiNDQtYTZjZTk5ZDc0MTQ2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|how the tudors lost their heads|2026": {
+  "id": "tt44870166",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWNhZWM2YWQtOTk4My00ZGVjLTgzMmEtMjk4YWRiZDE1N2E5XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the silent storm|2026": {
+  "id": "tt34959964",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM2ODJmMWEtOTE2MC00YjljLWJlYTQtMTEyMDkyNjIwYjY1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|get huge looksmaxxing to death|2026": {
+  "id": "tt50135019",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGFhMTUwOTAtNWFkMC00MDZhLWE3NGQtMmRhY2Q1YTRlMmEwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|doozie s doghouse|2026": {
+  "id": "tt47596905",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzUyNzBjYjMtOWRhZS00OWVjLWJkMDgtODRlYzk3YjAzZmZmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|fate beyond script|2026": {
+  "id": "tt40553627",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIwMTJmZDYtMTUxOS00MDhlLThiNmEtNGE3YzRhYzM1OWEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|when i meet the moon|2026": {
+  "id": "tt36983579",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDE1MTIxYmYtZWI5Yy00YjM4LTg2OGYtYjI1OWI5NDdiZDZmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the galway bay murders|2026": {
+  "id": "tt21236532",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjJlNjA4ZDUtMDcwZC00OGRiLWFiYTAtZTA1Yjk2NTRkMWEyXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|pardon the intrusion|": {
+  "id": "tt40548626",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI3NmVkOTMtNzE1ZS00Mjg2LWFkNDAtNTZmMDgzOWFjOTI4XkEyXkFqcGc@._V1_.jpg"
+ }
+}
