@@ -1,43 +1,34 @@
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-session = requests.Session(impersonate="chrome124")
-HEADERS = {
-    "Accept-Language": "tr-TR,tr;q=0.9",
-    "Referer": "https://filmmodu.cc/yabanci-dizi-izle",
-    "Origin": "https://filmmodu.cc",
-}
+URL = "https://www.hdfilmcehennemi2.biz/dizi-izle/"
 
-# 1. Önce ana sayfayı açıp çerezi ve CSRF token'ı al
-r1 = session.get("https://filmmodu.cc/yabanci-dizi-izle", headers=HEADERS, timeout=20)
-soup1 = BeautifulSoup(r1.text, "html.parser")
-meta = soup1.find("meta", attrs={"name": "csrf-token"})
-csrf = meta["content"] if meta else ""
-print(f"CSRF Token bulundu mu?: {'EVET' if csrf else 'HAYIR'}")
+r = requests.get(
+    URL,
+    impersonate="chrome124",
+    headers={"Accept-Language": "tr-TR,tr;q=0.9", "Referer": "https://www.google.com/"},
+    timeout=20,
+)
+print(f"HTTP Durum Kodu: {r.status_code}")
+soup = BeautifulSoup(r.text, "html.parser")
 
-# 2. Token ve çerez ile POST isteği at
-post_headers = {
-    **HEADERS,
-    "X-Requested-With": "XMLHttpRequest",
-    "X-CSRF-TOKEN": csrf,
-}
+# 1. "Son Bölümler" başlığını ve altındaki ilk 3 kartın HTML'ini bul
+heading = soup.find(string=lambda t: t and "Son Bölümler" in t)
+if heading:
+    section = heading.find_parent("section") or heading.find_parent("div").find_parent("div")
+    links = section.find_all("a", href=True)
+    print(f"Son Bölümler link sayısı: {len(links)}\n")
+    for idx, a in enumerate(links[:3], 1):
+        print(f"--- KART {idx} ---")
+        print("METİN:", " | ".join(a.get_text(" | ", strip=True).split()))
+        print("HTML:", str(a)[:600])
+        print()
+else:
+    print("Son Bölümler başlığı bulunamadı!")
 
-for key in ["sayfa", "page"]:
-    r2 = session.post(
-        "https://filmmodu.cc/diziler/bolum-veri",
-        headers=post_headers,
-        data={key: "2"},
-        timeout=20,
-    )
-    print(f"=== POST {key}=2 -> HTTP {r2.status_code} | Uzunluk: {len(r2.text)} ===")
-    if r2.status_code == 200:
-        soup2 = BeautifulSoup(r2.text, "html.parser")
-        cards = soup2.select("a.yd-mini")
-        print(f"Bulunan kart sayısı: {len(cards)}")
-        for a in cards[:4]:
-            ad = a.select_one("b.yd-mini-ad")
-            dublaj = "DUBLAJ" if a.find(attrs={"aria-label": "Türkçe Dublaj"}) else "Sadece Altyazı"
-            print(f"  - {ad.get_text(strip=True) if ad else '?'} [{dublaj}]")
-        if not cards:
-            print("Ham çıktı örneği:", r2.text[:250])
-    print()
+# 2. "Daha Fazla Yükle" butonunu incele
+more_btn = soup.find(string=lambda t: t and "Daha Fazla" in t)
+if more_btn:
+    btn = more_btn.find_parent(["button", "a", "div"])
+    print("--- DAHA FAZLA YÜKLE BUTONU ---")
+    print(str(btn))
