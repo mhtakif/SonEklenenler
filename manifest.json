@@ -1,14 +1,14 @@
 {
   "id": "org.hdfc.sonEklenenler",
-  "version": "2.0.0",
-  "name": "HDFC ve SelçukFlix Katalog",
-  "description": "HDFilmCehennemi ve SelçukFlix son eklenen film/diziler. Dublajlılar [DUBLAJ] ile işaretlenir.",
+  "version": "2.4.0",
+  "name": "HdFilmCehennemi ve SelçukFlix Katalog",
+  "description": "HdFilmCehennemi ve SelçukFlix son eklenen film/diziler. Dublajlı olanlar [DUBLAJ] ile işaretlenir.",
   "resources": ["catalog"],
   "types": ["movie", "series"],
   "catalogs": [
-    { "type": "movie", "id": "hdfc-son-eklenenler", "name": "HDFC Son Eklenen Filmler" },
-    { "type": "series", "id": "hdfc-son-diziler", "name": "HDFC Son Eklenen Diziler" },
-    { "type": "movie", "id": "selcuk-filmler", "name": "SelçukFlix Filmler" },
-    { "type": "series", "id": "selcuk-diziler", "name": "SelçukFlix Diziler" }
+    { "type": "movie", "id": "hdfc-son-eklenenler", "name": "HdFilmCehennemi Son Eklenen Filmler" },
+    { "type": "series", "id": "hdfc-son-diziler", "name": "HdFilmCehennemi Son Eklenen Diziler" },
+    { "type": "movie", "id": "selcuk-filmler", "name": "SelçukFlix Son Eklenen Filmler" },
+    { "type": "series", "id": "selcuk-diziler", "name": "SelçukFlix Son Eklenen Diziler" }
   ]
 }
