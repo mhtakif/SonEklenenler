@@ -1,148 +1,108 @@
 {
  "metas": [
   {
+   "id": "tt27995115",
+   "type": "series",
+   "name": "Şeytanın Aklına Gelmez",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZDI1OTcxMWYtOTUwMy00MmE3LWFjNGEtNWY5OTU4YTczMGU2XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
    "id": "tt33043892",
    "type": "series",
-   "name": "Dexter: Resurrection",
-   "poster": "https://m.media-amazon.com/images/M/MV5BMWFmZDE2OTktOWY1Yi00ZTBiLWE3NWUtMzdmNTM1ZmQ0ZGQzXkEyXkFqcGc@._V1_.jpg"
+   "name": "[DUBLAJ] Dexter Resurrection",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMWFmZDE2OTktOWY1Yi00ZTBiLWE3NWUtMzdmNTM1ZmQ0ZGQzXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt37180305",
+   "id": "tt11041332",
    "type": "series",
-   "name": "Arkadaşlarla Seks ve Oyunlar",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-arkadaslarla-seks-ve-oyunlar.webp"
+   "name": "[DUBLAJ] Yellowjackets",
+   "poster": "https://m.media-amazon.com/images/M/MV5BY2U2MmM2YjMtYjMxYS00OTAxLWExNGQtM2U0ZGFjNTM3MGI5XkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt4378376",
+   "id": "tt49692512",
    "type": "series",
-   "name": "Babylon Berlin",
-   "poster": "https://m.media-amazon.com/images/M/MV5BZWU0OGU0N2UtODc2Ni00NDRlLTlmN2EtOTg1Y2RkZGZmODVmXkEyXkFqcGc@._V1_.jpg"
+   "name": "[DUBLAJ] Son Masa - Final Table",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNzMzNzE5ZWUtZDJmNC00MWJlLWE4ZTAtYWFjZWFmYTk5NGJjXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt23112594",
+   "id": "tt31510819",
    "type": "series",
-   "name": "VisionQuest",
-   "poster": "https://m.media-amazon.com/images/M/MV5BY2FlNjIxMDktMGYyZi00NjY3LWI4YjctYTcxNzc2MDUwYjZmXkEyXkFqcGc@._V1_.jpg"
+   "name": "[DUBLAJ] MobLand",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZDc4MmYxNTAtM2ViYy00YWQ4LThjZWUtNDZjNTZjNDFhNzBjXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
+  },
+  {
+   "id": "tt36984433",
+   "type": "series",
+   "name": "SWAT Exiles - S.W.A.T. Exiles",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZWMzMDczODUtYzJjYy00MDYzLWE1MTgtNzFlYzU3ZDg1MWJkXkEyXkFqcGc@._V1_.jpg"
   },
   {
    "id": "tt37972251",
    "type": "series",
-   "name": "War",
+   "name": "WAR",
    "poster": "https://m.media-amazon.com/images/M/MV5BMzEyOTg2YWItN2M1Mi00ZGJmLWJhOGUtMjhhZGVjNjIwNTkxXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt33253070",
+   "id": "tt32327588",
    "type": "series",
-   "name": "M.I.A.",
-   "poster": "https://m.media-amazon.com/images/M/MV5BYzA5NjAxMGItNTE5ZC00ZDhmLTk2NzEtYmUzZWNkNjllMzA2XkEyXkFqcGc@._V1_.jpg"
+   "name": "Furia",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNTczOTQzY2YtNGM2Zi00MTY0LWJmYjYtZjk5OGRmYmMzNmM0XkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt35934755",
+   "id": "tt31106862",
    "type": "series",
-   "name": "Below",
-   "poster": "https://m.media-amazon.com/images/M/MV5BYzRjZjU3NTktOTY5My00YTEzLTliYjAtMDNjYjhiN2MyYjllXkEyXkFqcGc@._V1_.jpg"
+   "name": "Happys Place",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNzBiMDMyNWItZmZkNS00NzljLWEzNjEtN2FiNmYwZWQzZDE0XkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt38504111",
+   "id": "tt38336631",
    "type": "series",
-   "name": "Küçük Mucizeler",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-kucuk-mucizeler.webp"
+   "name": "[DUBLAJ] The Blue Road - Puleungil",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYTE2YjI4MDctMTY3YS00ODYyLTgwOTMtZmVkZDljZGQ3OWI1XkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt11540908",
+   "id": "tt12324366",
    "type": "series",
-   "name": "Carrie",
-   "poster": "https://m.media-amazon.com/images/M/MV5BZGQzZjIzZWUtZTg2My00YWE2LTk5M2MtMDk2NGRmZGNhMTU4XkEyXkFqcGc@._V1_.jpg"
+   "name": "[DUBLAJ] Percy Jackson and the Olympians",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMGUwOTQ0ZjMtYzA3NS00YWJiLWE3YzEtOGI1YzNkZGFlOWQ5XkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt36743307",
+   "id": "tt39980704",
    "type": "series",
-   "name": "Inside the Circle",
-   "poster": "https://m.media-amazon.com/images/M/MV5BMzE3MzI3ZjQtMjMxNC00ZGEwLWJmOWEtNWJhNTU3YWYwOThkXkEyXkFqcGc@._V1_.jpg"
+   "name": "YAGA",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYTc1M2VmM2UtNGY3Yy00YmQ2LTljY2YtMjkxMGY2ZDNiMmYyXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt30051064",
+   "id": "tt27954448",
    "type": "series",
-   "name": "American Hostage",
-   "poster": "https://m.media-amazon.com/images/M/MV5BZjg0NWVlOTMtNWJjYy00ZjllLWJlMDAtNGQxYWI5NDA5ZjU2XkEyXkFqcGc@._V1_.jpg"
+   "name": "Law & Order Toronto Criminal Intent",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZTVjMzNkODktYjhiZC00MjNkLWFlMzItOGE5Y2VkNzRiYTcxXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt35726020",
+   "id": "tt7235466",
    "type": "series",
-   "name": "Kill Jackie",
-   "poster": "https://m.media-amazon.com/images/M/MV5BNTFiNjYxMWEtNGMzMC00MTZjLThhZTUtYTllNTkwNzhkYzYzXkEyXkFqcGc@._V1_.jpg"
+   "name": "9-1-1",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYTllNGE4MjctZDI5Mi00ODEyLWFhNTUtZDUyYTBlMzMxYTBkXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt36832679",
+   "id": "tt26598805",
    "type": "series",
-   "name": "Son Vaka",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-son-vaka.webp"
+   "name": "[DUBLAJ] Nocturne",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZDk1NTMyZDgtMzhlNi00NTBjLTk4MDMtNTkwMjcwODBhNDM5XkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt2640044",
+   "id": "tt32375763",
    "type": "series",
-   "name": "Gökyüzüne Hükmedenler",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-gokyuzune-hukmedenler.webp"
-  },
-  {
-   "id": "tt36347588",
-   "type": "series",
-   "name": "The Scandal",
-   "poster": "https://m.media-amazon.com/images/M/MV5BODMyM2VhYzktZTZhZi00NWNkLWI5NjgtNmU5MmI0ZDJiN2QzXkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-   "id": "tt17677860",
-   "type": "series",
-   "name": "Şüphe Altında",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-suphe-altinda.webp"
-  },
-  {
-   "id": "tt4301160",
-   "type": "series",
-   "name": "Kara Kuş",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-kara-kus.webp"
-  },
-  {
-   "id": "tt37439410",
-   "type": "series",
-   "name": "Yalanlar Kulübü",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-yalanlar-kulubu.webp"
-  },
-  {
-   "id": "tt38218082",
-   "type": "series",
-   "name": "Crew Girl",
-   "poster": "https://m.media-amazon.com/images/M/MV5BMWVmYTE5OWQtOWJlMi00NzY4LWJmMTAtZDQ2ZTg1MTZhNWVlXkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-   "id": "tt16418808",
-   "type": "series",
-   "name": "Sugar",
-   "poster": "https://m.media-amazon.com/images/M/MV5BNjYyZjQ5MWMtOTE5My00OGZhLTlkMTAtYjEyYWJiNTY5NGY4XkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-   "id": "tt27543562",
-   "type": "series",
-   "name": "The Shards",
-   "poster": "https://m.media-amazon.com/images/M/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-   "id": "tt13210838",
-   "type": "series",
-   "name": "The Gentlemen",
-   "poster": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-   "id": "tt19231492",
-   "type": "series",
-   "name": "Karanlık Madde",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-karanlik-madde.webp"
-  },
-  {
-   "id": "tt32909469",
-   "type": "series",
-   "name": "Kalp Sancısı",
-   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/dizi-mal-de-amores.webp"
+   "name": "[DUBLAJ] 12 12 12",
+   "poster": "https://m.media-amazon.com/images/M/MV5BN2JiOGUwZjgtYTk5Mi00YzIzLTgxMTYtNmYxNjY3YTZjNDYyXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   }
  ]
 }
