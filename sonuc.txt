@@ -1,28 +1,15 @@
-=== POST data sayfa=2 -> HTTP 419 | Uzunluk: 6665 ===
-Hata örneği: <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1"
+CSRF Token bulundu mu?: EVET
+=== POST sayfa=2 -> HTTP 200 | Uzunluk: 13115 ===
+Bulunan kart sayısı: 16
+  - The Altruists [DUBLAJ]
+  - Saksağan Cinayetleri [DUBLAJ]
+  - Çiçekçi Kız [DUBLAJ]
+  - FBI [DUBLAJ]
 
-=== POST data page=2 -> HTTP 419 | Uzunluk: 6665 ===
-Hata örneği: <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1"
-
-=== POST json sayfa=2 -> HTTP 419 | Uzunluk: 6665 ===
-Hata örneği: <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1"
-
-=== POST url ?sayfa=2 -> HTTP 419 | Uzunluk: 6665 ===
-Hata örneği: <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1"
+=== POST page=2 -> HTTP 200 | Uzunluk: 13115 ===
+Bulunan kart sayısı: 16
+  - The Altruists [DUBLAJ]
+  - Saksağan Cinayetleri [DUBLAJ]
+  - Çiçekçi Kız [DUBLAJ]
+  - FBI [DUBLAJ]
 
