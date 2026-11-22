@@ -1,1 +1,94 @@
-{"metas":[]}
+{
+ "metas": [
+  {
+   "id": "tt33043892",
+   "type": "series",
+   "name": "Dexter: Resurrection",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMWFmZDE2OTktOWY1Yi00ZTBiLWE3NWUtMzdmNTM1ZmQ0ZGQzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt4378376",
+   "type": "series",
+   "name": "Babylon Berlin",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZWU0OGU0N2UtODc2Ni00NDRlLTlmN2EtOTg1Y2RkZGZmODVmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt23112594",
+   "type": "series",
+   "name": "VisionQuest",
+   "poster": "https://m.media-amazon.com/images/M/MV5BY2FlNjIxMDktMGYyZi00NjY3LWI4YjctYTcxNzc2MDUwYjZmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt37972251",
+   "type": "series",
+   "name": "War",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMzEyOTg2YWItN2M1Mi00ZGJmLWJhOGUtMjhhZGVjNjIwNTkxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt33253070",
+   "type": "series",
+   "name": "M.I.A.",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYzA5NjAxMGItNTE5ZC00ZDhmLTk2NzEtYmUzZWNkNjllMzA2XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt35934755",
+   "type": "series",
+   "name": "Below",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYzRjZjU3NTktOTY5My00YTEzLTliYjAtMDNjYjhiN2MyYjllXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt11540908",
+   "type": "series",
+   "name": "Carrie",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZGQzZjIzZWUtZTg2My00YWE2LTk5M2MtMDk2NGRmZGNhMTU4XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt36743307",
+   "type": "series",
+   "name": "Inside the Circle",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMzE3MzI3ZjQtMjMxNC00ZGEwLWJmOWEtNWJhNTU3YWYwOThkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt30051064",
+   "type": "series",
+   "name": "American Hostage",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZjg0NWVlOTMtNWJjYy00ZjllLWJlMDAtNGQxYWI5NDA5ZjU2XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt35726020",
+   "type": "series",
+   "name": "Kill Jackie",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNTFiNjYxMWEtNGMzMC00MTZjLThhZTUtYTllNTkwNzhkYzYzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt36347588",
+   "type": "series",
+   "name": "The Scandal",
+   "poster": "https://m.media-amazon.com/images/M/MV5BODMyM2VhYzktZTZhZi00NWNkLWI5NjgtNmU5MmI0ZDJiN2QzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt38218082",
+   "type": "series",
+   "name": "Crew Girl",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMWVmYTE5OWQtOWJlMi00NzY4LWJmMTAtZDQ2ZTg1MTZhNWVlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt16418808",
+   "type": "series",
+   "name": "Sugar",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNjYyZjQ5MWMtOTE5My00OGZhLTlkMTAtYjEyYWJiNTY5NGY4XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt27543562",
+   "type": "series",
+   "name": "The Shards",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt13210838",
+   "type": "series",
+   "name": "The Gentlemen",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg"
+  }
+ ]
+}
