@@ -1,4 +1,4 @@
-İstek atılıyor: https://dizifilmizle.to/turkce-dublaj-filmler
+İstek atılıyor: https://www.hdfilmdiziizle.com/turkce-dublaj-filmler/
 HTTP Durum Kodu: 403
 Siteye ulaşılamadı veya bot engeli var:
 <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39
