@@ -1,7 +1,7 @@
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-URL = "https://sinemacc.com/dil/turkce-dublaj/"
+URL = "https://www.hdfilmcehennemi2.biz/turkce-dublaj/"
 
 print(f"İstek atılıyor: {URL}")
 response = requests.get(
