@@ -1,4 +1,20 @@
-İstek atılıyor: https://www.hdfilmdiziizle.com/turkce-dublaj-filmler/
-HTTP Durum Kodu: 403
-Siteye ulaşılamadı veya bot engeli var:
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39
+İstek atılıyor: https://hdfilmdelisi1.com/film-kesfet?dil=dublaj
+HTTP Durum Kodu: 200
+
+Bulunan film sayısı: 30
+
+1. Kardeş Kardeş | Steps | ★ | 0 | • | 2026 | • | 102 | dk  -->  /film/kardes-kardes-steps
+2. Sıra Dı$ı Vaiz | Primetime Preacher$ | ★ | 5 | • | 2026 | • | 114 | dk  -->  /film/sira-didollari-vaiz
+3. Oğlum Adına Özür Dilerim | Vicentina Pede Desculpas | ★ | 6.7 | • | 2026 | • | 148 | dk  -->  /film/oglum-adina-ozur-dilerim
+4. Kusursuz Yalancılar | Perfectos mentirosos | ★ | 5 | • | 2026 | • | 108 | dk  -->  /film/kusursuz-yalancilar
+5. Navarone'dan 10. Bölük | Force 10 from Navarone | ★ | 6.4 | • | 1978 | • | 118 | dk  -->  /film/navaronedan-10-boluk
+6. Son Yemek | Son Yemek | ★ | 5 | • | 2026 | • | 123 | dk  -->  /film/son-yemek
+7. Kutupta Patlama | Arctic Blast | ★ | 3.9 | • | 2010 | • | 92 | dk  -->  /film/kutupta-patlama
+8. Madden | Madden | ★ | 5 | • | 2026 | • | 110 | dk  -->  /film/madden
+9. Çok Özel Bir Koruma | Guarding Stars | ★ | 5 | • | 2026 | • | 110 | dk  -->  /film/cok-ozel-bir-koruma
+10. Russell Brand: Apaçık Bir Sır | Russell Brand: Open Secret | ★ | 6.2 | • | 2026 | • | 83 | dk  -->  /film/russell-brand-apacik-bir-sir
+11. Karaoğlan | Karaoğlan | ★ | 3.5 | • | 2013 | • | 116 | dk  -->  /film/karaoglan
+12. Being Heumann | Being Heumann | ★ | 7.2 | • | 2026 | • | 127 | dk  -->  /film/being-heumann
+13. Heartland | Heartland | ★ | 5 | • | 2026 | • | 113 | dk  -->  /film/heartland
+14. Kavgacılar | Bagarre | ★ | 5.6 | • | 2026 | • | 98 | dk  -->  /film/kavgacilar
+15. Kanun Adamı | Lawman | ★ | 7 | • | 1971 | • | 99 | dk  -->  /film/kanun-adami
