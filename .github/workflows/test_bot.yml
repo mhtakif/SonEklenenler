@@ -1,7 +1,10 @@
 name: Filmmodu Canli Test
 
 on:
-  workflow_dispatch: # Actions sekmesinden tek tıkla manuel çalıştırmak için
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   test-scrape:
@@ -19,6 +22,13 @@ jobs:
       - name: Kütüphaneleri yükle
         run: pip install cloudscraper beautifulsoup4
 
-      - name: Test scriptini çalıştır
-        run: python test_filmmodu.py
-        
+      - name: Testi çalıştır ve dosyaya yaz
+        run: python test_filmmodu.py > sonuc.txt 2>&1 || true
+
+      - name: Sonucu repoya kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sonuc.txt
+          git commit -m "Test sonucu guncellendi" || exit 0
+          git push
