@@ -1,70 +1,76 @@
 {
  "metas": [
   {
-   "id": "tt33311069",
+   "id": "tt33998222",
    "type": "movie",
-   "name": "Amansız - The Furious",
-   "poster": "https://www.hdfilmcehennemi.nl/images/list/poster/the-furious.webp"
+   "name": "Love Language",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYTZhYWY0ZmUtNmI5My00OWIzLTliYTctYWYwYzIwYmU1OTI1XkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt21285562",
+   "id": "tt28613536",
    "type": "movie",
-   "name": "Köpek ve Yıldızlar - The Dog Stars"
+   "name": "[DUBLAJ] Bob Trevino Likes It",
+   "poster": "https://m.media-amazon.com/images/M/MV5BOGI2Yzg2MmYtMmI0Mi00ZWYwLThjMGItZTQ3MmExODFiMjI3XkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt15047880",
+   "id": "tt40210362",
    "type": "movie",
-   "name": "İfşa Günü - Disclosure Day"
+   "name": "The Last Temptation of Becky",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZDk0YWVhNzItNDE3Zi00NTlhLWI4ZjYtZTAyYjdjNTlhZTZkXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt31170389",
+   "id": "tt36943034",
    "type": "movie",
-   "name": "Kötü Ruh : Cehennem Ateşi - Evil Dead Burn"
+   "name": "[DUBLAJ] Hind Rajab'ın Sesi",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZWVlM2RjYTctODU4Mi00NTQzLWEzMDktZGVmYTQ2NTEwOWFiXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt0093507",
+   "id": "tt32273171",
    "type": "movie",
-   "name": "Kainatın Hakimleri - Masters of the Universe"
+   "name": "[DUBLAJ] Robin Hood'un Ölümü",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt27165187",
+   "id": "tt37877083",
    "type": "movie",
-   "name": "Oak Caddesinin Sonu - The End of Oak Street"
+   "name": "[DUBLAJ] Çok Özel Bir Koruma",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZjdlOGI1ODQtMDlkMC00MTZiLWI4NWUtNzE1NDdjYzgzOTViXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt15095848",
+   "id": "tt31216533",
    "type": "movie",
-   "name": "Being Heumann"
+   "name": "500 Miles",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNmViOWUwOWMtMTNhNS00ZWRiLTk0ZWEtODBiMzY4OTNkMDhiXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt39313557",
+   "id": "tt29870331",
    "type": "movie",
-   "name": "Sadece Noel İçin - The Christmas Switch"
+   "name": "Appofeniacs",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMjQyYjEyMmYtYjFjYS00OTU0LWIwMWUtYzIyYjMxNTI2YjA0XkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt0783233",
+   "id": "tt37896763",
    "type": "movie",
-   "name": "Kefaret - Atonement"
+   "name": "[DUBLAJ] Odyssey",
+   "poster": "https://m.media-amazon.com/images/M/MV5BZGE3YjU2YzAtOTU5OS00MzVkLWJjY2QtYWY3YTcwOGI2NTUzXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
-   "id": "tt38420997",
+   "id": "tt45162718",
    "type": "movie",
-   "name": "İnancın Ezgisi - The Gospel of Christmas"
+   "name": "Canavar",
+   "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NmFjMmQtY2Y4YS00YTY4LTgzODktZDMxYzE1ZGEzYzJjXkEyXkFqcGc@._V1_.jpg"
   },
   {
-   "id": "tt36586020",
+   "id": "tt38213251",
    "type": "movie",
-   "name": "Diğer Anne - Other Mommy"
-  },
-  {
-   "id": "tt39453578",
-   "type": "movie",
-   "name": "İyi Avukat - The Good Lawyer"
-  },
-  {
-   "id": "tt36544524",
-   "type": "movie",
-   "name": "Bir Şair - A Poet"
+   "name": "[DUBLAJ] Heartland",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_.jpg",
+   "releaseInfo": "Türkçe Dublaj"
   }
  ]
 }
