@@ -9,12 +9,12 @@
     {
       "type": "movie",
       "id": "son_eklenen_filmler",
-      "name": "Son Eklenen Filmler (Dublaj 2021+)"
+      "name": "Son Eklenen Filmler (Türkçe Dublaj)"
     },
     {
       "type": "series",
       "id": "son_eklenen_diziler",
-      "name": "Son Eklenen Diziler (Dublaj 2021+)"
+      "name": "Son Eklenen Dizi Bölümleri (Türkçe Dublaj)"
     }
   ],
   "idPrefixes": ["tt"]
