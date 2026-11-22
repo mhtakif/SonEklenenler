@@ -1,0 +1,527 @@
+{
+  "metas": [
+    {
+      "id": "tt7972570",
+      "type": "movie",
+      "name": "Mr. K",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3",
+      "genres": [
+        "Dram",
+        "Gizem",
+        "Fantastik"
+      ],
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/n8Vh6cdEvn8XtnmoEeqzomv6SYJ.jpg",
+      "runtime": "96 dk"
+    },
+    {
+      "id": "tt28613536",
+      "type": "movie",
+      "name": "Bob Trevino'nun Favorisi",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4",
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "description": "Bob Trevino, karısının anı defteri hazırlama alışkanlığını desteklemek için bir inşaat şirketinde tek başına uzun saatler çalışır. Çift, son on yılda çok şey yaşamıştır ve Bob, karısını her şeyden önce tutmaya çalışmış, hatta kendi duygularını ve ihtiyaçlarını görmezden gelmiştir. Ta ki bir yabancıdan beklenmedik bir Facebook mesajı alana kadar. Lily ve Bob'un gelişen arkadaşlığı, her ikisinin de hayatında önemli bir bağlantı ve iyileşme kaynağı haline gelir",
+      "poster": "https://image.tmdb.org/t/p/w500/kMIiBztK0PgwIQ0FMItv4dd8wIL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+      "runtime": "101 dk"
+    },
+    {
+      "id": "tt14413964",
+      "type": "movie",
+      "name": "Kardeş Kardeş",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "genres": [
+        "Animasyon",
+        "Aile",
+        "Komedi",
+        "Macera",
+        "Fantastik"
+      ],
+      "description": "Bu eğlenceli ve sıra dışı aksiyon komedisinde Külkedisi'nin \"kötü\" üvey kardeşi Lilith, Peri Anne'nin asasını çalar ve bildiğimiz masalı kökten değiştirir.",
+      "poster": "https://image.tmdb.org/t/p/w500/7cTsuRX6GPWe3ZrhelqrNxN6hjj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "runtime": "107 dk"
+    },
+    {
+      "id": "tt18351090",
+      "type": "movie",
+      "name": "Kusursuz Yalancılar",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "Dram",
+        "Romantik",
+        "Gerilim"
+      ],
+      "description": "Jude Derry, gizli bir amaçla seçkin Tagus Üniversitesi'ne gelir: Cash kardeşlerin çevresine sızmak ve abisinin ölümünün ardındaki gerçeği ortaya çıkarmak. İntikam olarak başlayan bu yolculuk, baştan çıkarma, yasak aşk ve yalanlardan oluşan tehlikeli bir üçgen haline dönüşür ve onu, yüzleşmeye henüz hazır olmayabileceği bir gerçeğe doğru sürükler. Alex Mirez'in romanından uyarlanmıştır.",
+      "poster": "https://image.tmdb.org/t/p/w500/uS5KFe9d1cQ5AEaAUxzqwo3yBgP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+      "runtime": "108 dk"
+    },
+    {
+      "id": "tt48434154",
+      "type": "movie",
+      "name": "Sıra Dı$ı Vaiz",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Belgesel"
+      ],
+      "description": "Olayın tanıkları, 80'lerin en güçlü üç ekran vaizinin TV ekranlarından nasıl kurtuluş pazarladığını; hırs, seks ve kibrin en sonunda onları nasıl çöküşe sürüklediğini anlatıyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/gHyOOVobgWEr10oCfE03C1P6lNN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+      "runtime": "115 dk"
+    },
+    {
+      "id": "tt36943034",
+      "type": "movie",
+      "name": "Hind Rajab'ın Sesi",
+      "releaseInfo": "2025",
+      "imdbRating": "8.1",
+      "genres": [
+        "Dram",
+        "Tarih"
+      ],
+      "description": "29 Ocak 2024. Kızılay gönüllüleri bir acil durum çağrısı alır. 6 yaşındaki bir kız, Gazze'de ateş altındaki bir arabada mahsur kalmış, kurtarılmak için yalvarmaktadır. Onu telefonda tutmaya çalışırken, bir ambulansın ona ulaşması için ellerinden gelen her şeyi yaparlar. Adı Hind Rajab'dı.",
+      "poster": "https://image.tmdb.org/t/p/w500/gKmC0lIlNce1vr07BaxpkCWV9NC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nBraEAWIC4DMf5lybx8fNiidtW3.jpg",
+      "runtime": "89 dk"
+    },
+    {
+      "id": "tt32273171",
+      "type": "movie",
+      "name": "Robin Hood'un Ölümü",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "genres": [
+        "Macera",
+        "Dram",
+        "Aksiyon"
+      ],
+      "description": "Suç ve cinayetlerle dolu bir hayatın ardından geçmişiyle yüzleşen Robin Hood, sonuncusu olacağını düşündüğü bir savaşın ardından ağır şekilde yaralanır. Gizemli bir kadının ellerinde, kendisine kurtuluş için yeni bir şans sunulur.",
+      "poster": "https://image.tmdb.org/t/p/w500/arDhnrSib3xRUHw0rIqgt8qHNeC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "runtime": "123 dk"
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Çok Özel Bir Koruma",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Romantik",
+        "Komedi"
+      ],
+      "description": "Profesyonel bir koruma görevlisi, koruduğu ünlü oyuncuyla Montana'daki bir çiftliğe gider. Ancak Noel için sevgili rolü yapan çiftin arasında gerçek bir aşk filizlenecektir.",
+      "poster": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "runtime": "109 dk"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "Odyssey",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "genres": [
+        "Macera",
+        "Aksiyon",
+        "Fantastik"
+      ],
+      "description": "İthaka'nın efsanevi kralı Odysseus, Truva Savaşı'nın ardından evine dönmek üzere uzun ve tehlikeli bir yolculuğa çıkar. Yolculuğu boyunca tanrıların keyfi istekleriyle, mitolojik canavarlarla ve insanlığını kırılma noktasına kadar zorlayan çetin sınavlarla yüzleşmek zorunda kalır.",
+      "poster": "https://image.tmdb.org/t/p/w500/edC4JzDHJUoQddhbHlBNSU3RHPR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dZI4Ek4qc2Fib2G1zFkGhKKuc6j.jpg",
+      "runtime": "173 dk"
+    },
+    {
+      "id": "tt33402927",
+      "type": "movie",
+      "name": "Oğlum Adına Özür Dilerim",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Vicentina, oğlunun kullandığı otobüs kaza yapınca bir yandan kendi kaybının yasını tutarken diğer yandan kazada ölenlerin ailelerini bulup her birinden özür dilemeye girişir.",
+      "poster": "https://image.tmdb.org/t/p/w500/cPPRzGWsO0R98if0mk1UHnlkGhK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "runtime": "148 dk"
+    },
+    {
+      "id": "tt34966562",
+      "type": "movie",
+      "name": "Christopherlar",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "genres": [
+        "Komedi",
+        "Dram",
+        "Suç"
+      ],
+      "description": "Uzun süredir ayrı yaşayan Christophers ailesi, önemli bir gelişme nedeniyle yeniden bir araya gelir. Bu buluşma, geçmişte saklanan sırların ortaya çıkmasına ve aile içindeki gerilimin hızla tırmanmasına yol açar.",
+      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/saEkWul1fGNixEug2w6RtOmTws2.jpg",
+      "runtime": "100 dk"
+    },
+    {
+      "id": "tt31216533",
+      "type": "movie",
+      "name": "500 Miles",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Dram"
+      ],
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/FhRosui9MSdxdyD3h0skOFhqED.jpg",
+      "background": "https://image.tmdb.org/t/p/original/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
+      "runtime": "102 dk"
+    },
+    {
+      "id": "tt33070884",
+      "type": "movie",
+      "name": "Savaşın Eşiğinde",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "genres": [
+        "Dram",
+        "Tarih"
+      ],
+      "description": "Ekim 1986'da, Soğuk Savaş'ın en gergin günlerinde ABD Başkanı Ronald Reagan ve Sovyet lideri Mihail Gorbaçov, İzlanda'nın Reykjavík kentinde gizli ve yüksek riskli bir zirve için bir araya gelir. Dünyayı nükleer yok oluşun eşiğinden döndürmek isteyen iki lider, küresel nükleer cephanelikleri ortadan kaldırmak için tarihin en kritik müzakeresine oturur. Ancak ideolojik ayrılıklar, danışmanların baskısı ve tek bir tavizin bile felakete yol açabileceği ihtimali, bu 72 saatlik görüşmeyi insanlığın kaderini belirleyecek sinir harbine dönüştürür.",
+      "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+      "runtime": "117 dk"
+    },
+    {
+      "id": "tt14129116",
+      "type": "movie",
+      "name": "Cinayet Kitabı",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Gerilim",
+        "Dram",
+        "Suç"
+      ],
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+      "runtime": "106 dk"
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "Oak Caddesi'nin Sonu",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Bilim-Kurgu",
+        "Gizem",
+        "Gerilim"
+      ],
+      "description": "Gizemli bir kozmik olay Oak Caddesi’ni sıradan banliyö yaşamından koparıp tamamen bilinmeyen bir yere taşıdıktan sonra Platt ailesi, hayatta kalabilmelerinin tek yolunun birbirlerine sıkı sıkıya bağlı kalmak olduğunu keşfeder. Artık tanınmaz hale gelen çevrelerinde yollarını bulmaya çalışırken aile bağları, onların en büyük gücü ve tek sığınağı olacaktır.",
+      "poster": "https://image.tmdb.org/t/p/w500/fqrxqGU4UQqYLumLLx7W0ewGl77.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+      "runtime": "100 dk"
+    },
+    {
+      "id": "tt10377864",
+      "type": "movie",
+      "name": "Amazonda Dehşet",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "genres": [
+        "Macera",
+        "Korku",
+        "Gerilim"
+      ],
+      "description": "Amazon'un derinliklerinde bir tıbbi görev büyük bir tehlikeye dönüşür; kadim dev avcı Boiúna uyanır ve bölgesini tekrar ele geçirir. Doğanın katı kurallarının geçerli olduğu bu ormanda yaşam ve ölüm kararlarını o verir.",
+      "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+      "runtime": "103 dk"
+    },
+    {
+      "id": "tt33311069",
+      "type": "movie",
+      "name": "Amansız",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "genres": [
+        "Aksiyon",
+        "Suç",
+        "Gerilim"
+      ],
+      "description": "Eski bir özel kuvvet askeri, kayıp kızını kurtarmak için kuzey Myanmar'a sızar ve dolandırıcılık çeteleri ile organ kaçakçılarına karşı savaşarak suç patronuyla son bir hesaplaşmaya girer.",
+      "poster": "https://image.tmdb.org/t/p/w500/sTWqYMxpTBWwFYouzpD27XpVTgq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+      "runtime": "113 dk"
+    },
+    {
+      "id": "tt38213251",
+      "type": "movie",
+      "name": "Heartland",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "genres": [
+        "Gerilim",
+        "Gizem"
+      ],
+      "description": "Cesur bir genç kız olan Amy, büyükbabasıyla at çiftliklerini kaybetme tehlikesiyle karşılaşınca annesinin ani ölümünü geride bırakmak zorunda kalır.",
+      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "background": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "runtime": "114 dk"
+    },
+    {
+      "id": "tt15095848",
+      "type": "movie",
+      "name": "Being Heumann",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "genres": [
+        "Dram",
+        "Tarih"
+      ],
+      "description": "Kavgacı, isyankâr ve yük muamelesi görmekten bıkmış olan Judy Heumann öfkesini devrime dönüştürdü. 1977’de o ve yüzden fazla engelli hakları protestocusu çok güçlü bir mesaj verdi: Bozuk olan sistem, biz değiliz.",
+      "poster": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+      "runtime": "127 dk"
+    },
+    {
+      "id": "tt50969289",
+      "type": "movie",
+      "name": "Russell Brand: Apaçık Bir Sır",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "genres": [
+        "Belgesel",
+        "Suç"
+      ],
+      "description": "Russell Brand'in komedi dünyasındaki şöhretinden ceza davasına kadar uzanan bu belgesel, ünlü ismin hızlı yükselişini ve cinsel suç iddialarından sonraki sert düşüşünü inceliyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+      "runtime": "84 dk"
+    },
+    {
+      "id": "tt39370926",
+      "type": "movie",
+      "name": "Asla Teslim Olma",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "genres": [
+        "Aksiyon",
+        "Suç",
+        "Gerilim"
+      ],
+      "description": "Gözlerden ırak evi tehlikeli bir çetenin baskınına uğrayan vicdan azabı içindeki eski bir asker ile onun iyi tanımadığı torunlarının hayatta kalmak için birlik olması gerekir.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+      "runtime": "140 dk"
+    },
+    {
+      "id": "tt37675123",
+      "type": "movie",
+      "name": "Allen",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "genres": [
+        "Bilim-Kurgu",
+        "Macera",
+        "Komedi"
+      ],
+      "description": "Bir uzaylıyla karşılaşmasının üzerinden 20 yıl geçmiş olsa bile Petey bu durumu aşamamıştır. Ancak eski dostu, karmaşık ve beklenmedik bir bahaneyle geri dönecektir.",
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "runtime": "107 dk"
+    },
+    {
+      "id": "tt39453578",
+      "type": "movie",
+      "name": "İyi Avukat",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "genres": [
+        "Gerilim",
+        "Dram"
+      ],
+      "description": "Mahkeme salonundaki aşırı doz vakasından sonra rehabilitasyona giren bir avukatın, stajyerinin yardımıyla kariyerini kurtarmak ve duruşmasına hazırlanmak için bir haftası vardır.",
+      "poster": "https://image.tmdb.org/t/p/w500/aoXmmkjKxsMZTNgrVq35d32w3Mg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "runtime": "121 dk"
+    },
+    {
+      "id": "tt33402929",
+      "type": "movie",
+      "name": "Zırh",
+      "releaseInfo": "2025",
+      "imdbRating": "6.1",
+      "genres": [
+        "Macera",
+        "Fantastik"
+      ],
+      "description": "Zorlu bir konser turnesinden sonra Aurélien ve ilk çocuklarına hamile olan eşi Nanako Japonya'ya taşınmaya karar verir. Japon kırsalındaki geleneksel bir eve yerleşirken, Aurélien bir kuyuda antik bir zırh bulur ve bu zırh YÅkai adlı tuhaf yaratıkları ortaya çıkarır.",
+      "poster": "https://image.tmdb.org/t/p/w500/39DriTpvzihb8OYuL039IGPWNZ7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cY033EP1igFIF0LWJoR6wIP81zH.jpg",
+      "runtime": "116 dk"
+    },
+    {
+      "id": "tt36544524",
+      "type": "movie",
+      "name": "Bir Şair",
+      "releaseInfo": "2025",
+      "imdbRating": "8.7",
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "description": "Oscar Restrepo’nun şiire olan takıntısı ona hiçbir şöhret getirmemiştir. Yaşlanan ve dengesizleşen Oscar, gölgelerde yaşayan şair klişesine yenik düşmüştür. Mütevazı bir geçmişten gelen genç kız Yurlady ile tanışıp onun yeteneğini geliştirmesine yardım etmek, günlerine bir nebze ışık getirir. Ancak onu şairlerin dünyasına sürüklemek, doğru karar olmayabilir.",
+      "poster": "https://image.tmdb.org/t/p/w500/bHnDSftKiJp9rdyCvb4G3NtSJTR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kJQ56bguSWbXAzN7EK1RUekfY0S.jpg",
+      "runtime": "123 dk"
+    },
+    {
+      "id": "tt37511036",
+      "type": "movie",
+      "name": "The Furious: Pertaruhan Maruah",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "genres": [
+        "Aksiyon",
+        "Dram"
+      ],
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vbWGR2d7tojUgXyTRExB8UXDV2u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/foTRCprA3whj8yWY4mCpmRPAqfr.jpg",
+      "runtime": "106 dk"
+    },
+    {
+      "id": "tt14678976",
+      "type": "movie",
+      "name": "Mahkum",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6",
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "description": "Alexander Rothstein uyuşturucu ticareti nedeniyle hapse girer; hamile sevgilisi ise dışarıda onu beklemektedir. Ailesini korumak için hapishanenin en tehlikeli isimleriyle ittifak kurar ve duvarların çok ötesine uzanan bir suç imparatorluğu yaratır. Ancak ihanet ve güç savaşları baş gösterince Alex bir seçim yapmak zorunda kalır: kurban olmak ya da bir canavara dönüşmek.",
+      "poster": "https://image.tmdb.org/t/p/w500/87kLBPMeQN4NDKt3BrozsQunnXP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/if34qdCE7DCNC2irlESbxnpGyXU.jpg",
+      "runtime": "140 dk"
+    },
+    {
+      "id": "tt37803364",
+      "type": "movie",
+      "name": "Olası Aşklar",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "Dram"
+      ],
+      "description": "İşsiz kalan bir adamla karısının yolları bir belgesel yönetmeni ve onun eşiyle kesişince gizli kalmış tutkularıyla yüz yüze gelirler.",
+      "poster": "https://image.tmdb.org/t/p/w500/7UAzxqezg5yvZyK3k62wOAzg0Zs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+      "runtime": "166 dk"
+    },
+    {
+      "id": "tt34724686",
+      "type": "movie",
+      "name": "Kavgacılar",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "genres": [
+        "Aksiyon",
+        "Macera",
+        "Komedi"
+      ],
+      "description": "Köpeğine yardım etmek için paraya ihtiyaç duyan Naim, Marsilya'daki gizli bir örgüte katılır ve yaşanan anlaşmazlıkları yumruklarıyla çözen kiralık bir dövüşçü olur.",
+      "poster": "https://image.tmdb.org/t/p/w500/lQRKadGZSBUjkFfjF7kDV047MUN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dVIm10SWH9drCmKO95ofv2BMVgD.jpg",
+      "runtime": "98 dk"
+    },
+    {
+      "id": "tt7526136",
+      "type": "movie",
+      "name": "Vahşinin Kalbi",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "genres": [
+        "Macera",
+        "Gerilim"
+      ],
+      "description": "Özel Kuvvetler subayı James Belmont, içinde bulunduğu uçağın Alaska'nın zorlu coğrafyasına düşmesi sonucu hayatta kalmayı başarır. Yanında sadece eğitimli savaş köpeği Odin bulunan Belmont; dondurucu soğuklar, vahşi doğa şartları ve sınırlı kaynaklarla karşı karşıya kalır. Medeniyetten tamamen uzakta mahsur kalan ikili, bir yandan bölgenin çetin iklim koşullarına ve yırtıcılara karşı direnirken diğer yandan da aralarındaki bağı ve askeri hayatta kalma becerilerini kullanarak kurtulmanın bir yolunu arar.",
+      "poster": "https://image.tmdb.org/t/p/w500/iA37n5BKKNaEKUpqfmvI352fKJn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "runtime": "102 dk"
+    },
+    {
+      "id": "tt5433140",
+      "type": "movie",
+      "name": "Hızlı ve Öfkeli 10",
+      "releaseInfo": "2023",
+      "imdbRating": "7.0",
+      "genres": [
+        "Aksiyon",
+        "Suç",
+        "Gerilim"
+      ],
+      "description": "Birçok görevde ve imkansız şartlar altında, Dom Toretto ve ailesi yolundaki her düşmanı kurnazlıkla, cesaretle ve sürüş becerileriyle alt ettiler. Şimdiyse, geçmişin gölgelerinden çıkan kan intikamıyla güçlenmiş ve Dom'un sevdiği her şeyi ve herkesi sonsuza dek yok etmeye kararlı dehşet verici bir tehditle karşı karşıyalar - hayatlarının en ölümcül düşmanıyla.",
+      "poster": "https://image.tmdb.org/t/p/w500/Am1mIWClibXSNcDudFRV9F9RdBm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "runtime": "142 dk"
+    },
+    {
+      "id": "tt38349293",
+      "type": "movie",
+      "name": "Perde",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7",
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "description": "Samet, genel müdürlük terfisini kutlamak için yakın arkadaşlarını evine davet eder. Eve girmeden hemen önce, her zamanki gibi kedileri beslerken, zemin kattaki kadının soyunduğunu fark eder. Kadın da onu görür ve Samet panikle kaçar. Ancak olay, apartmanın kapıcısının suçlanmasına neden olur. Samet’in eşi Zeynep, bu olayı arkadaşlarıyla tartışırken ısrarla kapıcıyı savunur. Gerçek suçlunun Samet olduğunu öğrendiğinde ise büyük bir ikilemle karşı karşıya kalır. Zeynep, inandığı doğruları mı savunacak, yoksa kendi hayatının güvenliğini mi?",
+      "poster": "https://image.tmdb.org/t/p/w500/9i0go6pWIjIKhu5csUGyqotQQNA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jQbv0GGhUx1wvnAkWZ0eYDg4ufG.jpg",
+      "runtime": "84 dk"
+    },
+    {
+      "id": "tt39313557",
+      "type": "movie",
+      "name": "Sadece Noel İçin",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "genres": [
+        "Romantik",
+        "Komedi"
+      ],
+      "description": "Sıkı çalışıp çılgınca eğlenen bir şehir kızı, hayatında bir değişiklik yapmak için evine düşkün kız kardeşiyle Noel'de yer değiştirince bambaşka bir karmaşa yaşanır.",
+      "poster": "https://image.tmdb.org/t/p/w500/l6xV0nnhK2KgoZzFh4gPopBsVcY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tNoB9ptCmp8bzdanndxswxrOfG6.jpg",
+      "runtime": "103 dk"
+    },
+    {
+      "id": "tt38420997",
+      "type": "movie",
+      "name": "İnancın Ezgisi",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "genres": [
+        "Müzik",
+        "Aile",
+        "Dram"
+      ],
+      "description": "Zorluklar yaşayan bir pastor, ailesini New York'un sorunlu bir mahallesine taşır; burada Noel'den önce, ihmal edilmiş bir kiliseyi icradan kurtarmak zorundadırlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+      "runtime": "103 dk"
+    }
+  ]
+}

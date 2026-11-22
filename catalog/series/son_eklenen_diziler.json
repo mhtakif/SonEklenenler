@@ -1,0 +1,456 @@
+{
+  "metas": [
+    {
+      "id": "tt49692512",
+      "type": "series",
+      "name": "Son Masa",
+      "releaseInfo": "2026",
+      "imdbRating": "8.9",
+      "genres": [
+        "Dram"
+      ],
+      "description": "The Table: K-Chef 2026, ülkenin en iyi şefi unvanı için Kore'nin önde gelen şeflerini bir araya getirir. Gizemli, dünyaca ünlü şef Chris K. (Kang Han), restoranını kurtarmaya çalışan Song-yi, mükemmeliyetçi yıldız şef Woo-jin ve diğer şefler amansız bir mutfak savaşında karşılaşır. Ancak bu yalnızca bir yarışma değil; birbirlerinde ve yemekte teselli bulurlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/oLR93xBU4yNLw5QfL3jaiKqgYkn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg"
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "releaseInfo": "2025",
+      "imdbRating": "8.5",
+      "genres": [
+        "Suç",
+        "Dram",
+        "Gizem"
+      ],
+      "description": "Dexter Morgan komadan uyandığında oğlu Harrison'ın iz bırakmadan kaybolduğunu görür. Oğluna yaşattıklarının ağırlığını anlayan Dexter, onu bulmaya ve her şeyi düzeltmeye kararlı bir şekilde New York'a gider. Ancak bunu sağlamak hiç de kolay olmayacaktır. Miami Metro'dan Angel Batista sorularıyla çıkageldiğinde Dexter, geçmişinin hızla peşine düştüğünü fark eder. Baba ve oğul, hiç uyumayan bu şehirde kendi karanlıklarında yol alırken kendilerini hiç beklemedikleri kadar derin bir çıkmazın içinde bulurlar ve bu durumdan kurtulmanın tek yolu birlikte hareket etmektir.",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg"
+    },
+    {
+      "id": "tt31844371",
+      "type": "series",
+      "name": "Vienna Game",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "genres": [
+        "Komedi"
+      ],
+      "description": "1814. Napolyon, Elba Adası'ndaki hapishanede çürürken, Avrupa'nın hükümdarları, savaşın yıktığı kıtanın geleceği üzerine bahis oynamak için Viyana'ya akın eder. Şampanya, aşk maceraları ve iktidar oyunları arasında, usta bir entrikacı, kraliyet yanlısı ve Prens Metternich'in metresi olan Wilhelmine von Sagan, Bonapartist ve çapkın Baron Amor Łaski ile kader belirleyici bir karşılaşma yaşar. Fransız Dışişleri Bakanı Talleyrand, zafer kazanan güçler olan Avusturya, Prusya, Rusya ve İngiltere'yi birbirine düşürürken, Çar ve kız kardeşi ise Prusya kralıyla komplo kurmaktadır. Küçük bir bürokrat olan Seidl, rakibini itibarsızlaştırmak için sahte bir mektup yazdığında, tüm oyuncuları riskli kararlar almaya zorlayan bir dizi kader belirleyici sonucu tetikler. Şans, aşk ve iktidarın bu büyük oyununu kim kazanacak?",
+      "poster": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg"
+    },
+    {
+      "id": "tt33253070",
+      "type": "series",
+      "name": "M.I.A.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "description": "M.I.A.'da, uyuşturucu ticareti Etta Tiger Jonze için bir aile meselesidir. Ancak ailesi gözlerinin önünde katledildiğinde, Etta sorumlulardan öz ailesinin intikamını almak için yola koyulur. Aynı zamanda, kendi seçtiği ailesini de kurar ve güçsüz bir yetimden Güney Florida'nın en güçlü suç kraliçesine dönüşme yolculuğuna başlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/szRt55O3qiw1qCSbDyrQOI2tcaI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg"
+    },
+    {
+      "id": "tt11041332",
+      "type": "series",
+      "name": "Yellowjackets",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4",
+      "genres": [
+        "Dram",
+        "Gizem"
+      ],
+      "description": "Dizi, kuzeyin derinliklerinde gerçekleşen bir uçak kazasından kurtulan bir lise kız futbol takımının hikayesini konu ediyor. Lise futbol takımında forma giyen yetenekli oyuncular, korkunç bir uçak kazasından sağ kurtulur. Ancak onlar için yaşam savaşı yeni başlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg"
+    },
+    {
+      "id": "tt12324366",
+      "type": "series",
+      "name": "Percy Jackson and the Olympians",
+      "releaseInfo": "2023",
+      "imdbRating": "7.3",
+      "genres": [
+        "Aksiyon & Macera",
+        "Bilim Kurgu & Fantazi",
+        "Dram",
+        "Aile"
+      ],
+      "description": "Percy Jackson tehlikeli bir maceraya atılır. Zeus'un İlk Şimşeğini geri getirmek ve topyekûn bir savaşı engellemek için Amerika'yı boydan boya kat etmesi, bu esnada da peşindeki canavarlardan kurtulması ve kurnazlığıyla tanrıları alt etmesi gerekmektedir. Görev arkadaşları Annabeth ve Kıvırcık'ın da yardımıyla Percy'nin yolculuğu onu, aradığı cevaplara yaklaştıracaktır: Kendini yabancı hissettiği bir dünyaya nasıl uyum sağlayacağına ve aslen kim olduğunun cevabını bulmaya.",
+      "poster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg"
+    },
+    {
+      "id": "tt27535062",
+      "type": "series",
+      "name": "City of God: Savaş Devam Ediyor",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "2000'li yılların başında genç bir uyuşturucu satıcısının hapishaneden çıktıktan sonra City of God’ın yeniden tartışmalı hale gelmesiyle bölge sakinleri kendilerini uyuşturucu kaçakçıları, milisler ve kamu yetkilileri arasında sıkışmış olarak bulurlar. Bu döngüden kurtulmak ve zalimlerle yüzleşmek için toplumun birleşmesi gerekir.",
+      "poster": "https://image.tmdb.org/t/p/w500/58qiZruozysI2b7ZZV68m3wvxEO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg"
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "releaseInfo": "2025",
+      "imdbRating": "8.7",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+    },
+    {
+      "id": "tt37972251",
+      "type": "series",
+      "name": "WAR",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Ünlü bir iş adamı ile dünyaca ünlü bir film yıldızının olaylı boşanması, Londra'nın iki güçlü hukuk firmasını karşı karşıya getirir. Kazanmanın her şey olduğu bu davada, boşanma kısa sürede bir savaşa dönüşür.",
+      "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/muPKymUvvBqjLCyGSacxKgjrhxN.jpg"
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "Yüzüklerin Efendisi: Güç Yüzükleri",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "genres": [
+        "Aksiyon & Macera",
+        "Bilim Kurgu & Fantazi"
+      ],
+      "description": "Göreceli bir barış döneminden başlayarak, Orta Dünya'ya geri dönen kötülükle yüzleşen bir dizi karakteri izleyeceğiz. Dumanlı Dağlar'ın en karanlık derinliklerinden Lindon'un görkemli ormanlarına, nefes kesen ada krallığı Númenor'a, haritanın en uzak noktalarına kadar tüm bu karakterlerin ve krallıkların kendileri yok olduktan çağlar sonra bile hatırlanacak destanlar yaratmasına tanık olacağız.",
+      "poster": "https://image.tmdb.org/t/p/w500/7daMA65eFTxcTg58E0YoCMyAj63.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg"
+    },
+    {
+      "id": "tt21906238",
+      "type": "series",
+      "name": "Rivals",
+      "releaseInfo": "2024",
+      "imdbRating": "7.4",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Yıl 1986 ve İngiltere hızla gelişiyor. “Rivals” saç modellerinin abartılı, hırsların daha da abartılı olduğu acımasız televizyon dünyasına dalıyor. Anlaşmalar hem toplantı odalarında hem de yatak odalarında yapılıyor. Kimse kimin zirveye tırmanacağını bilemiyor. Jilly Cooper'ın çok satan Rutshire Chronicles romanının merakla beklenen bu uyarlamasında, herkes sadece kendini düşünürken, gerçek aşk filizlenebilecek mi?",
+      "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg"
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "releaseInfo": "2022",
+      "imdbRating": "8.3",
+      "genres": [
+        "Suç",
+        "Dram",
+        "Komedi"
+      ],
+      "description": "25 yıl hapis cezasının ardından cezaevinden yeni çıkan, \"General\" olarak bilinen eski New York mafya babası Dwight Manfredi, bağlı olduğu suç lordu tarafından törensiz bir şekilde kovulur. Oklahoma, Tulsa'ya sürgüne gönderilen Dwight, renkli karakterlerle kendi takımını kurmaya karar verir.",
+      "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "genres": [
+        "Bilim Kurgu & Fantazi",
+        "Dram"
+      ],
+      "description": "Başına konulan ödül yüzünden Vision, hayatta kalabilmek için kendi doğasıyla yüzleşmeli ve Ultron’un etkisine direnmelidir.",
+      "poster": "https://image.tmdb.org/t/p/w500/vNAE76jPwWeIOl9UrbtuL3SssaW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "releaseInfo": "2021",
+      "imdbRating": "7.7",
+      "genres": [
+        "Suç",
+        "Dram",
+        "Gizem"
+      ],
+      "description": "Arsen Lüpen'in maceralarından esinlenen kibar hırsız Assane Diop, düşmanlarını alt edip sevdiklerini korumak için zekâsını ve cazibesini kullanır.",
+      "poster": "https://image.tmdb.org/t/p/w500/sOUWRai0215iUSMackrZx3Y1j05.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg"
+    },
+    {
+      "id": "tt38336631",
+      "type": "series",
+      "name": "The Blue Road",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "genres": [
+        "Suç",
+        "Gizem"
+      ],
+      "description": "Farklı ülkelerde yaşayan iki dedektif, vahşi cinayetler ve şifreli mesajlarla karşılaşınca iş birliği yapar. Ama ölümcül gerçek, her an tehlike yaratabilecek kadar yakındır.",
+      "poster": "https://image.tmdb.org/t/p/w500/9mmOjx2bWuLd9NnVpC71OUEXBym.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "genres": [
+        "Aksiyon & Macera",
+        "Suç",
+        "Dram"
+      ],
+      "description": "Bir soygunun planlanması 12 ay, uygulanması 12 saat sürer ve bir hırsız 12 gün içinde yakalanmazsa asla yakalanmaz. Bir FBI ajanıyla kariyer suçlusu üç heyecan dolu zaman çizgisi boyunca Avrupa'da ölümcül bir kedi fare oyunu için karşı karşıya geliyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg"
+    },
+    {
+      "id": "tt29921070",
+      "type": "series",
+      "name": "Karma",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "Vahim bir kaza sonucu yolları kesişen altı kişi, ilahi adalet ve suçun iç içe geçtiği heyecan verici bir öyküde kendi karanlık gerçekleri ve bağlantılarıyla yüzleşmelidir.",
+      "poster": "https://image.tmdb.org/t/p/w500/lU4vljHDqDjkUtn9Mk83Tlnjtki.jpg",
+      "background": "https://image.tmdb.org/t/p/original/66X23qG4RPk7XPDQCFFHHCage3M.jpg"
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "name": "Nocturne",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "genres": [
+        "Suç",
+        "Dram",
+        "Gizem"
+      ],
+      "description": "Nam salmış seri katil Jurek Walter'ın kurbanlarından biri beklenmedik şekilde sağ bulununca, dedektif Jonah Lynn hâlâ kayıp olan son kişiyi bulmak için zamana karşı yarışırken öğrencisi Saga Bauer cevaplar almak için gizlice katilin yanına sızar.",
+      "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg"
+    },
+    {
+      "id": "tt30796986",
+      "type": "series",
+      "name": "NCIS: Origins",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "1991'de, NCIS olaylarından yıllar önce, Leroy Jethro Gibbs, yeni atanmış bir özel ajan olarak NCIS'in yeni kurulan Camp Pendleton ofisinde kariyerine başlar ve burada NCIS efsanesi Mike Franks'in liderliğindeki azimli, düzensiz bir ekipte yerini sağlamlaştırır.",
+      "poster": "https://image.tmdb.org/t/p/w500/rntvbFEFReEHTkFwbSHhsLwilpO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mxq7PO5QCIqBEeU09xfthxx7wGY.jpg"
+    },
+    {
+      "id": "tt36786185",
+      "type": "series",
+      "name": "The Altruists",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "Gerçek bir dolandırıcılık olayından esinlenen bu aşk öyküsünde iyi niyetle yola çıkan iki idealist genç, birbirlerinin kötü yanlarını tetikleyerek milyarlarca dolara sahip oluyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+    },
+    {
+      "id": "tt13186264",
+      "type": "series",
+      "name": "Saksağan Cinayetleri",
+      "releaseInfo": "2022",
+      "imdbRating": "7.1",
+      "genres": [
+        "Dram",
+        "Gizem",
+        "Suç"
+      ],
+      "description": "Yeni bir kitapta kayıp bir bölümün aranması cinayete yol açar.",
+      "poster": "https://image.tmdb.org/t/p/w500/79L8AHJdoDtxtwyBNqNM1HRJ8q5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ppL1z45EO6jgUX83WTeQ598Myku.jpg"
+    },
+    {
+      "id": "tt48685065",
+      "type": "series",
+      "name": "Çiçekçi Kız",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "description": "Helin Kandemir'in Nilüfer'i, Hakan Çelebi'nin ise Faruk'u canlandırdığı «Çiçekçi Kız» dizisi, hayallerini gerçekleştirmek için bir çiçekçi dükkanı açan Nilüfer ile gizli bir görev yürüten polis memuru Faruk'un hikayesini anlatıyor. Yollarının kesişmesi, bir dizi beklenmedik olaya yol açar. Bir dükkanda iki zıt karakteri bir araya getiren dizi, romantik komediyi suç ve detektif unsurlarıyla harmanlıyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/6Xr5GQqwxceVpzpKXC6ZOt42slH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qxdIeeXB7IlZO9lKaAxpoDXY2Bv.jpg"
+    },
+    {
+      "id": "tt35082593",
+      "type": "series",
+      "name": "Gassal",
+      "releaseInfo": "2024",
+      "imdbRating": "8.0",
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "description": "Otuzlu yaşlarında bir gassal olan Baki, toplumdan kendini soyutlamaktan memnun ve içine kapanık bir adamdır. Ancak ölümle yüz yüze gelmesiyle aklına rahatsız edici bir soru takılır: Öldükten sonra naaşını kim yıkayacaktır? Bu farkındalık bir dizi mizahi serüvenin kapısını aralar.",
+      "poster": "https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6YMuWmlXKQkhQ0FiwDo9zmIsnEb.jpg"
+    },
+    {
+      "id": "tt41559886",
+      "type": "series",
+      "name": "Gordon",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "description": "Marcelo Larraquy'nin kitabından uyarlanan bu drama dizisinde ufak çaplı bir hırsız olan Aníbal Gordon, 1970'lerin Arjantin'inde cinayetten hüküm giyen bir mahkûma dönüşür.",
+      "poster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+    },
+    {
+      "id": "tt44079238",
+      "type": "series",
+      "name": "Canavar Yasası",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "Hükümlü bir çocuk katilinin tahliyesi yaklaşırken Polonya’da panik artıyor; davanın müfettişi ve psikiyatristi arasındaki ahlaki çatışma yeniden alevleniyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg"
+    },
+    {
+      "id": "tt45246384",
+      "type": "series",
+      "name": "Kılık Değiştiren Aşk",
+      "releaseInfo": "2026",
+      "imdbRating": "8.9",
+      "genres": [
+        "Komedi",
+        "Dram",
+        "Suç"
+      ],
+      "description": "Taekang Grubunun veliahdı Yoon Yi-jun, sarsıcı bir cinayetin baş şüphelisidir. Kang Jae-hee, gerçeği ortaya çıkarmak ve Yi-jun'u gözetlemek için erkek kılığında sekreteri olarak yanına sızar. Gerçeğe yaklaştıkça birbirlerine de yakınlaşırlar. Kimliğini gizleyen Jae-hee ile bir sır saklayan Yi-jun, gerçek duygularını birbirlerine açabilecekler mi?",
+      "poster": "https://image.tmdb.org/t/p/w500/ekko8NFVeQdW9nBvcE9CAsvNxh0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg"
+    },
+    {
+      "id": "tt30291387",
+      "type": "series",
+      "name": "All's Fair",
+      "releaseInfo": "2025",
+      "imdbRating": "5.0",
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "description": "Kadın boşanma avukatlarından oluşan bir ekip, kendi güçlü pratiklerini açmak için erkek egemen bir şirketten ayrılıyor. Cesur, zeki ve duygusal açıdan karmaşık olan bu avukatlar, hem mahkeme salonunda hem de kendi aralarında, yüksek riskli ayrılıklar, skandal sırlarla ve değişen ittifaklarla başa çıkıyorlar. Paranın konuştuğu ve aşkın bir savaş alanı olduğu bir dünyada, bu kadınlar sadece oyunu oynamıyor, değiştiriyorlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg"
+    },
+    {
+      "id": "tt31710249",
+      "type": "series",
+      "name": "Oyuna Devam",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "description": "Pryce Cahill, golfte büyük bir başarıya ulaşmak üzereyken sahada yaşadığı çöküş, kariyerini rayından çıkarmıştır. Şimdi ayakta kalmak için mücadele etmektedir ve muazzam yeteneğe sahip genç golfçü Santi'ye akıl hocalığı yaparak hem ona hem de kendine yeni bir şans vermeye çalışır.",
+      "poster": "https://image.tmdb.org/t/p/w500/zxNo7GKGz3ejzIAQMvFUsckyvec.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg"
+    },
+    {
+      "id": "tt26748321",
+      "type": "series",
+      "name": "Doc",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iTt37Rl8AidvU5aQf5M4odroCuF.jpg"
+    },
+    {
+      "id": "tt36984433",
+      "type": "series",
+      "name": "S.W.A.T. Exiles",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "description": "Farklı bakış açılarına sahip ekibini bir arada tutmaya çalışan Hondo, hem tehlikeli operasyonlarla hem de teşkilat içindeki bir köstebekle mücadele eder.",
+      "poster": "https://image.tmdb.org/t/p/w500/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg"
+    },
+    {
+      "id": "tt4406178",
+      "type": "series",
+      "name": "The Gilded Age",
+      "releaseInfo": "2022",
+      "imdbRating": "7.7",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Yıl 1882. Marian Brook, babasının ölümünden sonra Peggy Scott ile birlikte aristokrat halaları Agnes van Rhijn ve Ada Brook ile birlikte yaşamak için New York'a gider. Bu arada, sosyeteye girmeye kararlı olan acımasız iş adamı George Russell ve hırslı karısı Bertha, ailelerini sokağın karşısındaki lüks bir malikaneye taşır ve ilk partilerini vermeye hazırlanır.",
+      "poster": "https://image.tmdb.org/t/p/w500/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg"
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "name": "Marshals",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "genres": [
+        "Dram",
+        "Suç",
+        "Aksiyon & Macera"
+      ],
+      "description": "Yellowstone Çiftliği'ni geride bırakan Dutton, kovboy ve Deniz Komandosu becerilerini birleştirerek Montana'da mera adaletini sağlamak için ABD Polis Teşkilatı'nın seçkin bir birliğine katılır. Kayce ve takım arkadaşları Pete Calvin, Belle Skinner, Andrea Cruz ve Miles Kittle, bu durumun yüksek psikolojik bedeliyle başa çıkmak zorundadır. Bölgedeki şiddete karşı savaşta son savunma hattı olarak görev yapanlar, ailelerine karşı sorumluluklarını yerine getiriyorlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg"
+    }
+  ]
+}
