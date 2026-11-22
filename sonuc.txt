@@ -1,20 +1,20 @@
-İstek atılıyor: https://hdfilmdelisi1.com/film-kesfet?dil=dublaj
+İstek atılıyor: https://sinemacc.com/dil/turkce-dublaj/
 HTTP Durum Kodu: 200
 
-Bulunan film sayısı: 30
+Bulunan film sayısı: 17
 
-1. Kardeş Kardeş | Steps | ★ | 0 | • | 2026 | • | 102 | dk  -->  /film/kardes-kardes-steps
-2. Sıra Dı$ı Vaiz | Primetime Preacher$ | ★ | 5 | • | 2026 | • | 114 | dk  -->  /film/sira-didollari-vaiz
-3. Oğlum Adına Özür Dilerim | Vicentina Pede Desculpas | ★ | 6.7 | • | 2026 | • | 148 | dk  -->  /film/oglum-adina-ozur-dilerim
-4. Kusursuz Yalancılar | Perfectos mentirosos | ★ | 5 | • | 2026 | • | 108 | dk  -->  /film/kusursuz-yalancilar
-5. Navarone'dan 10. Bölük | Force 10 from Navarone | ★ | 6.4 | • | 1978 | • | 118 | dk  -->  /film/navaronedan-10-boluk
-6. Son Yemek | Son Yemek | ★ | 5 | • | 2026 | • | 123 | dk  -->  /film/son-yemek
-7. Kutupta Patlama | Arctic Blast | ★ | 3.9 | • | 2010 | • | 92 | dk  -->  /film/kutupta-patlama
-8. Madden | Madden | ★ | 5 | • | 2026 | • | 110 | dk  -->  /film/madden
-9. Çok Özel Bir Koruma | Guarding Stars | ★ | 5 | • | 2026 | • | 110 | dk  -->  /film/cok-ozel-bir-koruma
-10. Russell Brand: Apaçık Bir Sır | Russell Brand: Open Secret | ★ | 6.2 | • | 2026 | • | 83 | dk  -->  /film/russell-brand-apacik-bir-sir
-11. Karaoğlan | Karaoğlan | ★ | 3.5 | • | 2013 | • | 116 | dk  -->  /film/karaoglan
-12. Being Heumann | Being Heumann | ★ | 7.2 | • | 2026 | • | 127 | dk  -->  /film/being-heumann
-13. Heartland | Heartland | ★ | 5 | • | 2026 | • | 113 | dk  -->  /film/heartland
-14. Kavgacılar | Bagarre | ★ | 5.6 | • | 2026 | • | 98 | dk  -->  /film/kavgacilar
-15. Kanun Adamı | Lawman | ★ | 7 | • | 1971 | • | 99 | dk  -->  /film/kanun-adami
+1. Mutlaka İzle  -->  https://sinemacc.com/film-listesi/mutlaka-izlemeniz-gereken-30-basyapit-film/
+2. 7.3 | Kara Gün | 2016 | Aksiyon  -->  https://sinemacc.com/film/kara-gun-patriots-day-2016/
+3. 5.3 | Allen | 2026 | Komedi  -->  https://sinemacc.com/film/allen-2026/
+4. 6.6 | Zombieland: Çift Vuruş | 2019 | Komedi  -->  https://sinemacc.com/film/zombieland-cift-vurus-zombieland-double-tap-2019/
+5. 5.5 | The Furious: Pertaruhan Maruah | 2026 | Aksiyon  -->  https://sinemacc.com/film/the-furious-pertaruhan-maruah-2026/
+6. 5.4 | Sadece Noel İçin | 2026 | Komedi  -->  https://sinemacc.com/film/sadece-noel-icin-the-christmas-switch-2026/
+7. 5.6 | Heartland | 2026 | Gerilim  -->  https://sinemacc.com/film/heartland-2026/
+8. 6.9 | Being Heumann | 2026 | Dram  -->  https://sinemacc.com/film/being-heumann-2026/
+9. 6.0 | Asla Teslim Olma | 2026 | Aksiyon  -->  https://sinemacc.com/film/asla-teslim-olma-never-surrender-2026/
+10. 6.3 | İyi Avukat | 2026 | Dram  -->  https://sinemacc.com/film/iyi-avukat-the-good-lawyer-2026/
+11. 7.1 | Sadakat Yolunda | 2017 | Dram  -->  https://sinemacc.com/film/sadakat-yolunda-megan-leavey-2017/
+12. 7.2 | Ateş ve Limon | 2008 | Dram  -->  https://sinemacc.com/film/ates-ve-limon-flame-citron-2008/
+13. 6.1 | Korunmasız Galiçya'da Cinayet | 2026 | Belgesel  -->  https://sinemacc.com/film/korunmasiz-galicyada-cinayet-2026/
+14. 8.4 | Odyssey | 2026 | Aksiyon  -->  https://sinemacc.com/film/odyssey-the-odyssey-2026/
+15. 8.0 | Olası Aşklar | 2026 | Dram  -->  https://sinemacc.com/film/olasi-asklar-possible-love-2026/
