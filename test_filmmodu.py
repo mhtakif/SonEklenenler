@@ -1,34 +1,43 @@
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-URL = "https://filmmodu.cc/diziler/bolum-veri"
+session = requests.Session(impersonate="chrome124")
 HEADERS = {
     "Accept-Language": "tr-TR,tr;q=0.9",
     "Referer": "https://filmmodu.cc/yabanci-dizi-izle",
     "Origin": "https://filmmodu.cc",
-    "X-Requested-With": "XMLHttpRequest",
 }
 
-tests = [
-    ("POST data sayfa=2", {"data": {"sayfa": "2"}}),
-    ("POST data page=2", {"data": {"page": "2"}}),
-    ("POST json sayfa=2", {"json": {"sayfa": 2}}),
-    ("POST url ?sayfa=2", {"params": {"sayfa": "2"}}),
-]
+# 1. Önce ana sayfayı açıp çerezi ve CSRF token'ı al
+r1 = session.get("https://filmmodu.cc/yabanci-dizi-izle", headers=HEADERS, timeout=20)
+soup1 = BeautifulSoup(r1.text, "html.parser")
+meta = soup1.find("meta", attrs={"name": "csrf-token"})
+csrf = meta["content"] if meta else ""
+print(f"CSRF Token bulundu mu?: {'EVET' if csrf else 'HAYIR'}")
 
-for label, kwargs in tests:
-    r = requests.post(URL, impersonate="chrome124", headers=HEADERS, timeout=20, **kwargs)
-    print(f"=== {label} -> HTTP {r.status_code} | Uzunluk: {len(r.text)} ===")
-    if r.status_code == 200:
-        soup = BeautifulSoup(r.text, "html.parser")
-        cards = soup.select("a.yd-mini")
+# 2. Token ve çerez ile POST isteği at
+post_headers = {
+    **HEADERS,
+    "X-Requested-With": "XMLHttpRequest",
+    "X-CSRF-TOKEN": csrf,
+}
+
+for key in ["sayfa", "page"]:
+    r2 = session.post(
+        "https://filmmodu.cc/diziler/bolum-veri",
+        headers=post_headers,
+        data={key: "2"},
+        timeout=20,
+    )
+    print(f"=== POST {key}=2 -> HTTP {r2.status_code} | Uzunluk: {len(r2.text)} ===")
+    if r2.status_code == 200:
+        soup2 = BeautifulSoup(r2.text, "html.parser")
+        cards = soup2.select("a.yd-mini")
         print(f"Bulunan kart sayısı: {len(cards)}")
-        for a in cards[:3]:
+        for a in cards[:4]:
             ad = a.select_one("b.yd-mini-ad")
             dublaj = "DUBLAJ" if a.find(attrs={"aria-label": "Türkçe Dublaj"}) else "Sadece Altyazı"
             print(f"  - {ad.get_text(strip=True) if ad else '?'} [{dublaj}]")
         if not cards:
-            print("Ham çıktı örneği:", r.text[:250])
-    else:
-        print("Hata örneği:", r.text[:150])
+            print("Ham çıktı örneği:", r2.text[:250])
     print()
