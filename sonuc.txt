@@ -1,0 +1,20 @@
+İstek atılıyor: https://filmmodu.cc/filmizle/turkce-dublaj-filmler-izle
+HTTP Durum Kodu: 200
+
+Bulunan film sayısı: 28
+
+1. Dublaj - Altyazı | 5.4 | HD | Mr. K | Mr. K | 2025 | Dram | 96 dk  -->  https://filmmodu.cc/film/mr-k/
+2. Dublaj - Altyazı | 5.8 | HD | Bitirim Karınca | The Ant Bully | 2006 | Macera | 89 dk  -->  https://filmmodu.cc/film/bitirim-karinca-izle/
+3. Dublaj - Altyazı | 7.4 | HD | Bob Trevino'nun Favorisi | Bob Trevino Likes It | 2025 | Komedi | 101 dk  -->  https://filmmodu.cc/film/bob-trevinonun-favorisi/
+4. Dublaj - Altyazı | 6.8 | HD | Sıra Dı$ı Vaiz | Primetime Preacher$ | 2026 | 115 dk  -->  https://filmmodu.cc/film/sira-dii-vaiz/
+5. Dublaj - Altyazı | 5.3 | HD | Kusursuz Yalancılar | Perfect Liars | 2026 | Dram | 108 dk  -->  https://filmmodu.cc/film/kusursuz-yalancilar/
+6. Dublaj - Altyazı | 6.9 | HD | Kardeş Kardeş | Steps | 2026 | Animasyon | 102 dk  -->  https://filmmodu.cc/film/kardes-kardes/
+7. Dublaj - Altyazı | 8.2 | HD | Hind Rajab'ın Sesi | The Voice of Hind Rajab | 2025 | Dram | 89 dk  -->  https://filmmodu.cc/film/hind-rajabin-sesi/
+8. Dublaj - Altyazı | 6.4 | HD | Oğlum Adına Özür Dilerim | On Behalf of My Son | 2026 | Dram | 148 dk  -->  https://filmmodu.cc/film/oglum-adina-ozur-dilerim/
+9. Dublaj - Altyazı | 7.0 | HD | 500 Miles | 500 Miles | 2026 | Dram | 102 dk  -->  https://filmmodu.cc/film/500-miles/
+10. Dublaj - Altyazı | 6.4 | HD | Cinayet Kitabı | A Talent for Murder | 2026 | Gerilim | 106 dk  -->  https://filmmodu.cc/film/cinayet-kitabi/
+11. Dublaj - Altyazı | 6.0 | HD | Robin Hood'un Ölümü | The Death of Robin Hood | 2026 | Aksiyon | 123 dk  -->  https://filmmodu.cc/film/robin-hoodun-olumu/
+12. Dublaj - Altyazı | 6.2 | HD | Çok Özel Bir Koruma | Guarding Stars | 2026 | Romantik | 109 dk  -->  https://filmmodu.cc/film/cok-ozel-bir-koruma/
+13. Dublaj - Altyazı | 8.4 | HD | Odyssey | The Odyssey | 2026 | Aksiyon | 173 dk  -->  https://filmmodu.cc/film/odyssey/
+14. Dublaj - Altyazı | 6.2 | HD | Savaşın Eşiğinde | The Brink of War | 2026 | Dram | 117 dk  -->  https://filmmodu.cc/film/savasin-esiginde/
+15. Dublaj - Altyazı | 6.8 | HD | The Christophers | The Christophers | 2026 | Dram | 100 dk  -->  https://filmmodu.cc/film/christopherlar/
