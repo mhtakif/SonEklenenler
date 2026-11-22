@@ -286,5 +286,109 @@
  "series|pardon the intrusion|": {
   "id": "tt40548626",
   "poster": "https://m.media-amazon.com/images/M/MV5BOGI3NmVkOTMtNzE1ZS00Mjg2LWFkNDAtNTZmMDgzOWFjOTI4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the last temptation of becky|2026": {
+  "id": "tt40210362",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk0YWVhNzItNDE3Zi00NTlhLWI4ZjYtZTAyYjdjNTlhZTZkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|love language|2026": {
+  "id": "tt33998222",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTZhYWY0ZmUtNmI5My00OWIzLTliYTctYWYwYzIwYmU1OTI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|hind rajab in sesi|2025": {
+  "id": "tt36943034",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWVlM2RjYTctODU4Mi00NTQzLWEzMDktZGVmYTQ2NTEwOWFiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|ok zel bir koruma|2026": {
+  "id": "tt37877083",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdlOGI1ODQtMDlkMC00MTZiLWI4NWUtNzE1NDdjYzgzOTViXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|500 miles|2026": {
+  "id": "tt31216533",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmViOWUwOWMtMTNhNS00ZWRiLTk0ZWEtODBiMzY4OTNkMDhiXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|robin hood un l m|2026": {
+  "id": "tt32273171",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|odyssey|2026": {
+  "id": "tt37896763",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGE3YjU2YzAtOTU5OS00MzVkLWJjY2QtYWY3YTcwOGI2NTUzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|canavar|2026": {
+  "id": "tt45162718",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NmFjMmQtY2Y4YS00YTY4LTgzODktZDMxYzE1ZGEzYzJjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|heartland|2026": {
+  "id": "tt38213251",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|war|2026": {
+  "id": "tt37972251",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzEyOTg2YWItN2M1Mi00ZGJmLWJhOGUtMjhhZGVjNjIwNTkxXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|dexter resurrection|2025": {
+  "id": "tt33043892",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWFmZDE2OTktOWY1Yi00ZTBiLWE3NWUtMzdmNTM1ZmQ0ZGQzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|visionquest|2026": {
+  "id": "tt23112594",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FlNjIxMDktMGYyZi00NjY3LWI4YjctYTcxNzc2MDUwYjZmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|below|2026": {
+  "id": "tt35934755",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzRjZjU3NTktOTY5My00YTEzLTliYjAtMDNjYjhiN2MyYjllXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|carrie|2026": {
+  "id": "tt11540908",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQzZjIzZWUtZTg2My00YWE2LTk5M2MtMDk2NGRmZGNhMTU4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|m i a|2026": {
+  "id": "tt33253070",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA5NjAxMGItNTE5ZC00ZDhmLTk2NzEtYmUzZWNkNjllMzA2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|kill jackie|2026": {
+  "id": "tt35726020",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFiNjYxMWEtNGMzMC00MTZjLThhZTUtYTllNTkwNzhkYzYzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|babylon berlin|2017": {
+  "id": "tt4378376",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU0OGU0N2UtODc2Ni00NDRlLTlmN2EtOTg1Y2RkZGZmODVmXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|inside the circle|2026": {
+  "id": "tt36743307",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE3MzI3ZjQtMjMxNC00ZGEwLWJmOWEtNWJhNTU3YWYwOThkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the scandal|2026": {
+  "id": "tt36347588",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODMyM2VhYzktZTZhZi00NWNkLWI5NjgtNmU5MmI0ZDJiN2QzXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|american hostage|2026": {
+  "id": "tt30051064",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg0NWVlOTMtNWJjYy00ZjllLWJlMDAtNGQxYWI5NDA5ZjU2XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|sugar|2024": {
+  "id": "tt16418808",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYyZjQ5MWMtOTE5My00OGZhLTlkMTAtYjEyYWJiNTY5NGY4XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|crew girl|2026": {
+  "id": "tt38218082",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVmYTE5OWQtOWJlMi00NzY4LWJmMTAtZDQ2ZTg1MTZhNWVlXkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the gentlemen|2024": {
+  "id": "tt13210838",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg"
+ },
+ "series|the shards|2026": {
+  "id": "tt27543562",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|guarding stars|2026": {
+  "id": "tt6611324",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcwOTdjZTItZDA5Zi00YzgwLTkwMmQtNTk2Zjc2ZDc1ZjlkXkEyXkFqcGc@._V1_.jpg"
+ },
+ "movie|the chronology of water|2025": {
+  "id": "tt8667404",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDUyM2ViNWYtNzJhMy00MDdiLWFkYTktYzBhOTYzN2UwZGMzXkEyXkFqcGc@._V1_.jpg"
  }
 }
