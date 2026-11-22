@@ -1,21 +1,34 @@
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-HEADERS = {"Accept-Language": "tr-TR,tr;q=0.9", "Referer": "https://filmmodu.cc/yabanci-dizi-izle"}
+URL = "https://filmmodu.cc/diziler/bolum-veri"
+HEADERS = {
+    "Accept-Language": "tr-TR,tr;q=0.9",
+    "Referer": "https://filmmodu.cc/yabanci-dizi-izle",
+    "Origin": "https://filmmodu.cc",
+    "X-Requested-With": "XMLHttpRequest",
+}
 
-# 1. Kartların altındaki dil/bayrak rozetlerini gör
-r = requests.get("https://filmmodu.cc/yabanci-dizi-izle", impersonate="chrome124", headers=HEADERS, timeout=20)
-soup = BeautifulSoup(r.text, "html.parser")
+tests = [
+    ("POST data sayfa=2", {"data": {"sayfa": "2"}}),
+    ("POST data page=2", {"data": {"page": "2"}}),
+    ("POST json sayfa=2", {"json": {"sayfa": 2}}),
+    ("POST url ?sayfa=2", {"params": {"sayfa": "2"}}),
+]
 
-print("=== DİL ROZETLERİ (İlk 2 ve Fire Country) ===")
-for a in soup.select("a.yd-mini"):
-    ad = a.select_one("b.yd-mini-ad").get_text(strip=True)
-    alt = a.select_one("span.yd-mini-alt")
-    if ad in ["Son Masa", "Vienna Game", "Fire Country", "FBI"]:
-        print(f"{ad} --> {alt}\n")
-
-# 2. Daha Fazla Göster (sayfa 2) test
-for param in ["sayfa=2", "page=2"]:
-    u = f"https://filmmodu.cc/diziler/bolum-veri?{param}"
-    r2 = requests.get(u, impersonate="chrome124", headers=HEADERS, timeout=20)
-    print(f"TEST {param} -> HTTP {r2.status_code} | Uzunluk: {len(r2.text)} | Örnek: {r2.text[:150]}")
+for label, kwargs in tests:
+    r = requests.post(URL, impersonate="chrome124", headers=HEADERS, timeout=20, **kwargs)
+    print(f"=== {label} -> HTTP {r.status_code} | Uzunluk: {len(r.text)} ===")
+    if r.status_code == 200:
+        soup = BeautifulSoup(r.text, "html.parser")
+        cards = soup.select("a.yd-mini")
+        print(f"Bulunan kart sayısı: {len(cards)}")
+        for a in cards[:3]:
+            ad = a.select_one("b.yd-mini-ad")
+            dublaj = "DUBLAJ" if a.find(attrs={"aria-label": "Türkçe Dublaj"}) else "Sadece Altyazı"
+            print(f"  - {ad.get_text(strip=True) if ad else '?'} [{dublaj}]")
+        if not cards:
+            print("Ham çıktı örneği:", r.text[:250])
+    else:
+        print("Hata örneği:", r.text[:150])
+    print()
