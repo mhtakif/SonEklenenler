@@ -1,7 +1,7 @@
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-URL = "https://www.setfilmizle.ltd/turkce-dublaj-filmler/"
+URL = "https://dizifilmizle.to/turkce-dublaj-filmler"
 
 print(f"İstek atılıyor: {URL}")
 response = requests.get(
@@ -23,8 +23,7 @@ if response.status_code != 200:
 soup = BeautifulSoup(response.text, "html.parser")
 
 movies = []
-# Sık kullanılan film kartı yapıları
-cards = soup.select("article, .item, .movie-item, .film-box, .poster")
+cards = soup.select("article, .item, .movie-item, .film-box, .poster, .card")
 
 for card in cards:
     a_tag = card.find("a", href=True)
@@ -32,19 +31,18 @@ for card in cards:
         continue
     href = a_tag["href"]
     text = " ".join(card.get_text(" | ", strip=True).split())
-    if text and len(text) > 3 and "setfilmizle" in href:
+    if text and len(text) > 3:
         movies.append((text, href))
 
-# Eğer yukarıdaki sınıflar eşleşmezse genel /film/ linklerinden yakala
+# Eğer yukarıdaki sınıflar eşleşmezse genel film linklerinden yakala
 if not movies:
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if "/film/" in href:
+        if any(k in href for k in ["/film/", "/izle/", "-izle"]):
             text = " ".join(a.get_text(" | ", strip=True).split())
-            if text:
+            if text and len(text) > 2:
                 movies.append((text, href))
 
-# Tekrarları temizleyip sırayı koru
 seen = set()
 unique_movies = []
 for text, href in movies:
