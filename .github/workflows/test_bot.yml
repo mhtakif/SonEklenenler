@@ -1,0 +1,24 @@
+name: Filmmodu Canli Test
+
+on:
+  workflow_dispatch: # Actions sekmesinden tek tıkla manuel çalıştırmak için
+
+jobs:
+  test-scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Kütüphaneleri yükle
+        run: pip install cloudscraper beautifulsoup4
+
+      - name: Test scriptini çalıştır
+        run: python test_filmmodu.py
+        
