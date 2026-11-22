@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: Kütüphaneleri yükle
-        run: pip install cloudscraper beautifulsoup4
+        run: pip install curl_cffi beautifulsoup4
 
       - name: Testi çalıştır ve dosyaya yaz
         run: python test_filmmodu.py > sonuc.txt 2>&1 || true
