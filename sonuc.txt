@@ -1,53 +1,25 @@
-HTTP Durum Kodu: 200
-Bölümde bulunan link sayısı: 16
+=== DİL ROZETLERİ (İlk 2 ve Fire Country) ===
+Son Masa --> <span class="yd-mini-alt">
+<time datetime="2026-11-22T21:15:10+03:00" title="22 Kasım 2026 21:15">1 saat önce</time><span class="yd-dil"><svg aria-label="Türkçe Dublaj" class="svgcon"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_flag_tr"></use></svg> <svg aria-label="Türkçe Altyazı" class="svgcon yd-cc"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_subtitle"></use></svg></span>
+</span>
 
---- KART 1 ---
-METİN: Yeni | | | 1. | Sezon | 10. | Bölüm | | | Son | Masa | | | 1 | saat | önce
-HTML: <a class="yd-mini" href="https://filmmodu.cc/dizi/son-masa/sezon-1/bolum-10" title="Son Masa 1. Sezon 10. Bölüm izle">
-<img alt="Son Masa 1. Sezon 10. Bölüm" decoding="async" height="80" loading="lazy" src="https://img.filmmodu.cc/dizi/poster/son-masa.webp?v=1793269736" width="54"/>
-<em class="yd-yeni">Yeni</em><span class="yd-mini-bilgi">
-<span class="yd-mini-bolum">1. Sezon 10. Bölüm</span>
-<b class="yd-mini-ad">Son Masa</b>
-<span class="yd-mini-alt">
-<time datetime="2026-11-22T21:15:10+03:00"
+Vienna Game --> <span class="yd-mini-alt">
+<time datetime="2026-11-22T18:35:42+03:00" title="22 Kasım 2026 18:35">4 saat önce</time><span class="yd-dil"><svg aria-label="Türkçe Dublaj" class="svgcon"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_flag_tr"></use></svg> <svg aria-label="Türkçe Altyazı" class="svgcon yd-cc"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_subtitle"></use></svg></span>
+</span>
 
---- KART 2 ---
-METİN: Yeni | | | 1. | Sezon | 6. | Bölüm | | | Vienna | Game | | | 4 | saat | önce
-HTML: <a class="yd-mini" href="https://filmmodu.cc/dizi/vienna-game/sezon-1/bolum-6" title="Vienna Game 1. Sezon 6. Bölüm izle">
-<img alt="Vienna Game 1. Sezon 6. Bölüm" decoding="async" height="80" loading="lazy" src="https://img.filmmodu.cc/dizi/poster/vienna-game.webp" width="54"/>
-<em class="yd-yeni">Yeni</em><span class="yd-mini-bilgi">
-<span class="yd-mini-bolum">1. Sezon 6. Bölüm</span>
-<b class="yd-mini-ad">Vienna Game</b>
-<span class="yd-mini-alt">
-<time datetime="2026-11-22T18:35:42+03:00" t
+Fire Country --> <span class="yd-mini-alt">
+<time datetime="2026-11-20T22:40:40+03:00" title="20 Kasım 2026 22:40">1 gün önce</time><span class="yd-dil"> <svg aria-label="Türkçe Altyazı" class="svgcon yd-cc"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_subtitle"></use></svg></span>
+</span>
 
---- KART 3 ---
-METİN: Yeni | | | 4. | Sezon | 1. | Bölüm | | | Yellowjackets | | | 5 | saat | önce
-HTML: <a class="yd-mini" href="https://filmmodu.cc/dizi/yellowjackets/sezon-4/bolum-1" title="Yellowjackets 4. Sezon 1. Bölüm izle">
-<img alt="Yellowjackets 4. Sezon 1. Bölüm" decoding="async" height="80" loading="lazy" src="https://img.filmmodu.cc/dizi/poster/yellowjackets.webp?v=1792931355" width="54"/>
-<em class="yd-yeni">Yeni</em><span class="yd-mini-bilgi">
-<span class="yd-mini-bolum">4. Sezon 1. Bölüm</span>
-<b class="yd-mini-ad">Yellowjackets</b>
-<span class="yd-mini-alt">
-<time datetime="2026-
-
---- KART 4 ---
-METİN: Yeni | | | 2. | Sezon | 3. | Bölüm | | | City | of | God: | Savaş | Devam | Ediyor | | | 5 | saat | önce
-HTML: <a class="yd-mini" href="https://filmmodu.cc/dizi/city-of-god-savas-devam-ediyor/sezon-2/bolum-3" title="City of God: Savaş Devam Ediyor 2. Sezon 3. Bölüm izle">
-<img alt="City of God: Savaş Devam Ediyor 2. Sezon 3. Bölüm" decoding="async" height="80" loading="lazy" src="https://img.filmmodu.cc/dizi/poster/city-of-god-savas-devam-ediyor.webp" width="54"/>
-<em class="yd-yeni">Yeni</em><span class="yd-mini-bilgi">
-<span class="yd-mini-bolum">2. Sezon 3. Bölüm</span>
-<b class="yd-mini-ad">City of G
-
---- KART 5 ---
-METİN: 1. | Sezon | 7. | Bölüm | | | WAR | | | 1 | gün | önce
-HTML: <a class="yd-mini" href="https://filmmodu.cc/dizi/war/sezon-1/bolum-7" title="WAR 1. Sezon 7. Bölüm izle">
-<img alt="WAR 1. Sezon 7. Bölüm" decoding="async" height="80" loading="lazy" src="https://img.filmmodu.cc/dizi/poster/war.webp?v=1792936906" width="54"/>
-<span class="yd-mini-bilgi">
-<span class="yd-mini-bolum">1. Sezon 7. Bölüm</span>
-<b class="yd-mini-ad">WAR</b>
-<span class="yd-mini-alt">
-<time datetime="2026-11-21T15:00:52+03:00" title="21 Kasım 2026 15:00">1 gün önce</time><span class=
-
---- DAHA FAZLA GÖSTER BUTONU ---
-<button class="yd-daha" data-hedef="[data-sb-bolumler]" data-sayfa="2" data-sb-daha="https://filmmodu.cc/diziler/bolum-veri" type="button"><span aria-hidden="true">+</span> Daha Fazla Göster</button>
+TEST sayfa=2 -> HTTP 404 | Uzunluk: 4268 | Örnek: <!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots
+TEST page=2 -> HTTP 405 | Uzunluk: 1376 | Örnek: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Err
