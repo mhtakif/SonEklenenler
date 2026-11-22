@@ -1,7 +1,7 @@
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-URL = "https://dizifilmizle.to/turkce-dublaj-filmler"
+URL = "https://www.hdfilmdiziizle.com/turkce-dublaj-filmler/"
 
 print(f"İstek atılıyor: {URL}")
 response = requests.get(
@@ -23,7 +23,7 @@ if response.status_code != 200:
 soup = BeautifulSoup(response.text, "html.parser")
 
 movies = []
-cards = soup.select("article, .item, .movie-item, .film-box, .poster, .card")
+cards = soup.select("article, .item, .movie-item, .film-box, .poster, .card, li.film")
 
 for card in cards:
     a_tag = card.find("a", href=True)
@@ -34,7 +34,6 @@ for card in cards:
     if text and len(text) > 3:
         movies.append((text, href))
 
-# Eğer yukarıdaki sınıflar eşleşmezse genel film linklerinden yakala
 if not movies:
     for a in soup.find_all("a", href=True):
         href = a["href"]
