@@ -1,20 +1,20 @@
-İstek atılıyor: https://sinemacc.com/dil/turkce-dublaj/
+İstek atılıyor: https://www.hdfilmcehennemi2.biz/turkce-dublaj/
 HTTP Durum Kodu: 200
 
-Bulunan film sayısı: 17
+Bulunan film sayısı: 44
 
-1. Mutlaka İzle  -->  https://sinemacc.com/film-listesi/mutlaka-izlemeniz-gereken-30-basyapit-film/
-2. 7.3 | Kara Gün | 2016 | Aksiyon  -->  https://sinemacc.com/film/kara-gun-patriots-day-2016/
-3. 5.3 | Allen | 2026 | Komedi  -->  https://sinemacc.com/film/allen-2026/
-4. 6.6 | Zombieland: Çift Vuruş | 2019 | Komedi  -->  https://sinemacc.com/film/zombieland-cift-vurus-zombieland-double-tap-2019/
-5. 5.5 | The Furious: Pertaruhan Maruah | 2026 | Aksiyon  -->  https://sinemacc.com/film/the-furious-pertaruhan-maruah-2026/
-6. 5.4 | Sadece Noel İçin | 2026 | Komedi  -->  https://sinemacc.com/film/sadece-noel-icin-the-christmas-switch-2026/
-7. 5.6 | Heartland | 2026 | Gerilim  -->  https://sinemacc.com/film/heartland-2026/
-8. 6.9 | Being Heumann | 2026 | Dram  -->  https://sinemacc.com/film/being-heumann-2026/
-9. 6.0 | Asla Teslim Olma | 2026 | Aksiyon  -->  https://sinemacc.com/film/asla-teslim-olma-never-surrender-2026/
-10. 6.3 | İyi Avukat | 2026 | Dram  -->  https://sinemacc.com/film/iyi-avukat-the-good-lawyer-2026/
-11. 7.1 | Sadakat Yolunda | 2017 | Dram  -->  https://sinemacc.com/film/sadakat-yolunda-megan-leavey-2017/
-12. 7.2 | Ateş ve Limon | 2008 | Dram  -->  https://sinemacc.com/film/ates-ve-limon-flame-citron-2008/
-13. 6.1 | Korunmasız Galiçya'da Cinayet | 2026 | Belgesel  -->  https://sinemacc.com/film/korunmasiz-galicyada-cinayet-2026/
-14. 8.4 | Odyssey | 2026 | Aksiyon  -->  https://sinemacc.com/film/odyssey-the-odyssey-2026/
-15. 8.0 | Olası Aşklar | 2026 | Dram  -->  https://sinemacc.com/film/olasi-asklar-possible-love-2026/
+1. Diziler  -->  https://www.hdfilmcehennemi2.biz/dizi-izle/
+2. Aksiyon Filmleri  -->  https://www.hdfilmcehennemi2.biz/tur/aksiyon-filmleri-izle/
+3. Animasyon Filmleri  -->  https://www.hdfilmcehennemi2.biz/tur/animasyon-film-izle/
+4. Bilim Kurgu Filmleri  -->  https://www.hdfilmcehennemi2.biz/tur/bilim-kurgu-filmleri-izle/
+5. Tavsiye Filmler  -->  https://www.hdfilmcehennemi2.biz/kategori/tavsiye-filmleri-izle/
+6. 2025 | 7.4 | CC | Dublaj & Altyazı | Bob Trevino Likes It | Film  -->  https://www.hdfilmcehennemi2.biz/bob-trevino-likes-it-izle/
+7. 2026 | 6.8 | CC | Dublaj & Altyazı | Kardeş Kardeş | Film  -->  https://www.hdfilmcehennemi2.biz/kardes-kardes-2026-izle/
+8. 2026 | 5.3 | CC | Dublaj & Altyazı | Kusursuz Yalancılar | Film  -->  https://www.hdfilmcehennemi2.biz/kusursuz-yalancilar-izle/
+9. 2025 | 8.2 | CC | Dublaj & Altyazı | Hind Rajab'ın Sesi | Film  -->  https://www.hdfilmcehennemi2.biz/hind-rajab-in-sesi-izle/
+10. 2026 | 6.0 | CC | Dublaj & Altyazı | Robin Hood'un Ölümü | Film  -->  https://www.hdfilmcehennemi2.biz/the-death-of-robin-hood-izle/
+11. 2026 | 6.2 | CC | Dublaj & Altyazı | Çok Özel Bir Koruma | Film  -->  https://www.hdfilmcehennemi2.biz/cok-ozel-bir-koruma-izle/
+12. 2026 | 8.4 | CC | Dublaj & Altyazı | Odyssey | Film  -->  https://www.hdfilmcehennemi2.biz/odyssey-izle/
+13. 2026 | 6.8 | CC | Dublaj & Altyazı | Christopherlar | Film  -->  https://www.hdfilmcehennemi2.biz/christopherlar-izle/
+14. 2026 | 6.2 | CC | Dublaj & Altyazı | Savaşın Eşiğinde | Film  -->  https://www.hdfilmcehennemi2.biz/savasin-esiginde-2026-izle/
+15. 2026 | 6.1 | CC | Dublaj & Altyazı | Oak Caddesi'nin Sonu | Film  -->  https://www.hdfilmcehennemi2.biz/oak-caddesinin-sonu-izle/
