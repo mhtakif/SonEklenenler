@@ -1,0 +1,21 @@
+{
+  "id": "com.mhtakif.soneklenenler.dublaj",
+  "version": "1.0.0",
+  "name": "Son Eklenenler (Türkçe Dublaj)",
+  "description": "2021+ en yeni Türkçe dublaj filmler ve diziler",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "son_eklenen_filmler",
+      "name": "Son Eklenen Filmler (Dublaj 2021+)"
+    },
+    {
+      "type": "series",
+      "id": "son_eklenen_diziler",
+      "name": "Son Eklenen Diziler (Dublaj 2021+)"
+    }
+  ],
+  "idPrefixes": ["tt"]
+}
