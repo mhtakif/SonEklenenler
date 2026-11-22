@@ -7,6 +7,12 @@
    "poster": "https://m.media-amazon.com/images/M/MV5BYTZhYWY0ZmUtNmI5My00OWIzLTliYTctYWYwYzIwYmU1OTI1XkEyXkFqcGc@._V1_.jpg"
   },
   {
+   "id": "tt32298494",
+   "type": "movie",
+   "name": "Geç Gelen Şöhret",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/gec-gelen-sohret.webp"
+  },
+  {
    "id": "tt28613536",
    "type": "movie",
    "name": "[DUBLAJ] Bob Trevino Likes It",
@@ -14,10 +20,30 @@
    "releaseInfo": "Türkçe Dublaj"
   },
   {
+   "id": "tt32558705",
+   "type": "movie",
+   "name": "Açlık Oyunları: Hasatta Gündoğumu",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/aclik-oyunlari-hasatta-gundogumu.webp"
+  },
+  {
    "id": "tt40210362",
    "type": "movie",
    "name": "The Last Temptation of Becky",
    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0YWVhNzItNDE3Zi00NTlhLWI4ZjYtZTAyYjdjNTlhZTZkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt14413964",
+   "type": "movie",
+   "name": "[DUBLAJ] Kardeş Kardeş",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/kardes-kardes-8794ho.webp",
+   "releaseInfo": "Türkçe Dublaj"
+  },
+  {
+   "id": "tt18351090",
+   "type": "movie",
+   "name": "[DUBLAJ] Kusursuz Yalancılar",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/perfectos-mentirosos.webp",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
    "id": "tt36943034",
@@ -47,6 +73,24 @@
    "poster": "https://m.media-amazon.com/images/M/MV5BNmViOWUwOWMtMTNhNS00ZWRiLTk0ZWEtODBiMzY4OTNkMDhiXkEyXkFqcGc@._V1_.jpg"
   },
   {
+   "id": "tt14129116",
+   "type": "movie",
+   "name": "Cinayet Kitabı",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/cinayet-kitabi.webp"
+  },
+  {
+   "id": "tt43669175",
+   "type": "movie",
+   "name": "Okay Madam 2",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/okay-madam-2.webp"
+  },
+  {
+   "id": "tt31192372",
+   "type": "movie",
+   "name": "Düşüş 2: Ölümcül Tırmanış",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/fall-2-olumcul-tirmanis.webp"
+  },
+  {
    "id": "tt29870331",
    "type": "movie",
    "name": "Appofeniacs",
@@ -60,10 +104,45 @@
    "releaseInfo": "Türkçe Dublaj"
   },
   {
+   "id": "tt34966562",
+   "type": "movie",
+   "name": "[DUBLAJ] Christopherlar",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/christopherlar.webp",
+   "releaseInfo": "Türkçe Dublaj"
+  },
+  {
+   "id": "tt33070884",
+   "type": "movie",
+   "name": "[DUBLAJ] Savaşın Eşiğinde",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/the-brink-of-war.webp",
+   "releaseInfo": "Türkçe Dublaj"
+  },
+  {
    "id": "tt45162718",
    "type": "movie",
    "name": "Canavar",
    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NmFjMmQtY2Y4YS00YTY4LTgzODktZDMxYzE1ZGEzYzJjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "id": "tt27165187",
+   "type": "movie",
+   "name": "[DUBLAJ] Oak Caddesi'nin Sonu",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/oak-caddesinin-sonu.webp",
+   "releaseInfo": "Türkçe Dublaj"
+  },
+  {
+   "id": "tt10377864",
+   "type": "movie",
+   "name": "[DUBLAJ] Beware Boiuna",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/beware-boiuna.webp",
+   "releaseInfo": "Türkçe Dublaj"
+  },
+  {
+   "id": "tt33311069",
+   "type": "movie",
+   "name": "[DUBLAJ] Amansız",
+   "poster": "https://www.hdfilmcehennemi2.biz/uploads/posters/webp/amansiz.webp",
+   "releaseInfo": "Türkçe Dublaj"
   },
   {
    "id": "tt38213251",
