@@ -1,25 +1,28 @@
-=== DİL ROZETLERİ (İlk 2 ve Fire Country) ===
-Son Masa --> <span class="yd-mini-alt">
-<time datetime="2026-11-22T21:15:10+03:00" title="22 Kasım 2026 21:15">1 saat önce</time><span class="yd-dil"><svg aria-label="Türkçe Dublaj" class="svgcon"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_flag_tr"></use></svg> <svg aria-label="Türkçe Altyazı" class="svgcon yd-cc"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_subtitle"></use></svg></span>
-</span>
-
-Vienna Game --> <span class="yd-mini-alt">
-<time datetime="2026-11-22T18:35:42+03:00" title="22 Kasım 2026 18:35">4 saat önce</time><span class="yd-dil"><svg aria-label="Türkçe Dublaj" class="svgcon"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_flag_tr"></use></svg> <svg aria-label="Türkçe Altyazı" class="svgcon yd-cc"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_subtitle"></use></svg></span>
-</span>
-
-Fire Country --> <span class="yd-mini-alt">
-<time datetime="2026-11-20T22:40:40+03:00" title="20 Kasım 2026 22:40">1 gün önce</time><span class="yd-dil"> <svg aria-label="Türkçe Altyazı" class="svgcon yd-cc"><use xlink:href="/stema/ikon.svg?v=1792755674#icon_subtitle"></use></svg></span>
-</span>
-
-TEST sayfa=2 -> HTTP 404 | Uzunluk: 4268 | Örnek: <!DOCTYPE html>
-<html lang="tr">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots
-TEST page=2 -> HTTP 405 | Uzunluk: 1376 | Örnek: <!DOCTYPE html>
+=== POST data sayfa=2 -> HTTP 419 | Uzunluk: 6665 ===
+Hata örneği: <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="robots" content="noindex,nofollow,noarchive" />
-    <title>An Err
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"
+
+=== POST data page=2 -> HTTP 419 | Uzunluk: 6665 ===
+Hata örneği: <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"
+
+=== POST json sayfa=2 -> HTTP 419 | Uzunluk: 6665 ===
+Hata örneği: <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"
+
+=== POST url ?sayfa=2 -> HTTP 419 | Uzunluk: 6665 ===
+Hata örneği: <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"
+
