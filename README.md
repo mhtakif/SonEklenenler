@@ -1,11 +1,3 @@
-# HDFC ve SelçukFlix Katalog (Nuvio / Stremio)
-
-4 katalog: HDFC Son Eklenen Filmler, HDFC Son Eklenen Diziler, SelçukFlix Filmler, SelçukFlix Diziler.
-Dublajlı içerikler adın başında [DUBLAJ] ile görünür.
-
-Addon adresi (KULLANICI/DEPO'yu kendine göre değiştir):
-
-    https://raw.githubusercontent.com/KULLANICI/DEPO/main/manifest.json
-
-Bu depodaki katalog dosyaları, Türkiye'deki bir telefon/bilgisayardan çalışan güncelleyici tarafından yüklenir
-(siteler yurtdışına kapalı olduğu için GitHub Actions kullanılamıyor).
+Katolaglarda eksik gördüğüm benim ise sitelerde en çok takip etttiğim konu
+Son Eklenen (Türkçe Dublaj) Film ve Dizi Bölümleri ve sonunda Kataloğunu yaptım :)
+Güle güle kullanın
