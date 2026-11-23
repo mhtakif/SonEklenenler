@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt32890033",
+      "type": "movie",
+      "name": "Minyonlar ve Canavarlar",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "genres": [
+        "Macera",
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Fantastik"
+      ],
+      "description": "Bu film, minyonların Hollywood'u nasıl fethettiği, film yıldızı olup her şeylerini kaybettikleri, dünyaya canavar saldıktan sonra yarattıkları kaostan dünyayı kurtarmak için nasıl bir araya geldiklerinin çılgın, saçma ve tamamen gerçek hikayesidir.",
+      "poster": "https://image.tmdb.org/t/p/w500/hNXw1I4GmLCbSdbnduoR7SVY8Jv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "runtime": "90 dk"
+    },
+    {
       "id": "tt7972570",
       "type": "movie",
       "name": "Mr. K",
