@@ -1,6 +1,54 @@
 {
   "metas": [
     {
+      "id": "tt32432654",
+      "type": "movie",
+      "name": "Kızlar Kızları Sever",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "genres": [
+        "Romantik",
+        "Dram"
+      ],
+      "description": "Yazar ve yönetmen Hayley Kiyoko'nun aynı adlı hit şarkısı ve çok satan romanından uyarlanan, Kiyoko'nun tamamen yeni şarkılarını da içeren Girls Like Girls, kasabaya yeni gelen Coley'nin kendini kabullenmeyi öğrenirken ilk kez âşık olmasının anlatıldığı, güneşli bir yaz boyunca geçen samimi bir gençlik hikâyesi.",
+      "poster": "https://image.tmdb.org/t/p/w500/19561rEvPiuXkvLVtTmThAYRuj6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hSdK33Mjsdfb8TpoUTI3A3OE3RO.jpg",
+      "runtime": "95 dk"
+    },
+    {
+      "id": "tt39316936",
+      "type": "movie",
+      "name": "Karlar Düşerken Aşk",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "Romantik",
+        "Komedi"
+      ],
+      "description": "Aynı yayınevinde çalışan rakip iki editör olan Ryan Mitchell ve Hannah Hendricks, Noel'de bir kar fırtınası yüzünden mahsur kalır. Kariyerlerini kurtaracak bir anlaşma için New York'a gitmek üzere kiralık bir arabayı paylaşmak zorunda kalırlar. Yoldaki talihsizlikler ve kasabalara yapılan sapmalar sonucu Noel ruhu ikisi arasındaki şiddetli rekabeti beklenmedik bir şeye dönüştürür.",
+      "poster": "https://image.tmdb.org/t/p/w500/i4uiZVLYhlmfvreLOdmR37MBZNk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "runtime": "110 dk"
+    },
+    {
+      "id": "tt14813764",
+      "type": "movie",
+      "name": "Uzaylı Dostum Flik",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2",
+      "genres": [
+        "Animasyon",
+        "Macera",
+        "Komedi",
+        "Aile",
+        "Fantastik"
+      ],
+      "description": "Thomas, kendini çoğu zaman kardeşlerinin gölgesinde hissettiği bir dönemde, başka bir gezegenden gelen sevimli ve tüylü Flik ile tanışır. Flik onu renkli, eğlenceli ve sürprizlerle dolu dünyasına götürür. Bu büyülü yolculuk sırasında Thomas’ın gölgesi yanlışlıkla komik ve yaramaz bir yaratığa dönüşür. Yaratık biraz ortalığı karıştırsa da Thomas ve kardeşleri güçlerini birleştirerek her şeyi tatlı bir şekilde yoluna koyarlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/yKhhA0AunCBE2Ke2klhcF1qM0a1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hyQPfCbALQmi0FQc2vLFyfENpHM.jpg",
+      "runtime": "83 dk"
+    },
+    {
       "id": "tt32890033",
       "type": "movie",
       "name": "Minyonlar ve Canavarlar",

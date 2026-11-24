@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt30051064",
+      "type": "series",
+      "name": "American Hostage",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "Aynı adlı kurgusal podcast serisinin ilk sezonundan uyarlanan American Hostage, rehin alan kişi Tony Kiritsis'in popüler radyo haber programında kendisiyle röportaj yapılmasını talep etmesi üzerine ölüm kalım meselesi haline gelen bir krizin ortasında kalan, Indianapolis'in sevilen radyo muhabiri Fred Heckman'ın sarsıcı gerçek hikayesini konu ediyor.",
+      "poster": "https://image.tmdb.org/t/p/w500/7vVbM1pERaXbUTD8RzyyIR2hHc8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg"
+    },
+    {
       "id": "tt49692512",
       "type": "series",
       "name": "Son Masa",
