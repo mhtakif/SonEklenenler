@@ -1,6 +1,65 @@
 {
   "metas": [
     {
+      "id": "tt38128726",
+      "type": "movie",
+      "name": "Durdur! Şu! Treni!",
+      "releaseInfo": "2026",
+      "imdbRating": "5.0",
+      "genres": [
+        "Aksiyon",
+        "Komedi"
+      ],
+      "description": "En yakın arkadaş olan tren hostesleri Tess ve DeeDee'yi çılgın, yıldızlar geçidi bir felaket komedisi. Yüksek hızlı trenleri, doğal felaket \"Tufanmanya\" yüzünden raydan çıkma tehlikesiyle karşı karşıya kalınca ikili, kibirli birinci sınıf görevlileri ve ABD Başkanı Judy Gagwell (RuPaul) ile güçlerini birleştirmek zorunda kalır. Hairspray'in yönetmeninden ve RuPaul's Drag Race yapımcılarından.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsIlRzBgeLQVEuqQHauylXl7CZ2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
+      "runtime": "90 dk"
+    },
+    {
+      "id": "tt32588798",
+      "type": "movie",
+      "name": "Aşkın Büyüsü 2",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "Romantik",
+        "Fantastik",
+        "Komedi"
+      ],
+      "description": "Sally Owens ve Gillian Owens, ailelerinin geleceğini tehdit eden karanlık bir lanetin ortaya çıkmasıyla yeniden güçlerini birleştirir. Aile bağlarını parçalama tehlikesi taşıyan bu lanet karşısında kardeşler, sevdiklerini korumaya ve karşı karşıya oldukları tehdidin üstesinden gelmeye çalışır.",
+      "poster": "https://image.tmdb.org/t/p/w500/yOHSkCqGKnCtqcOMowOIDLTTiWC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "runtime": "110 dk"
+    },
+    {
+      "id": "tt47597255",
+      "type": "movie",
+      "name": "Rob Lowe: The Outsider",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Belgesel"
+      ],
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg",
+      "runtime": "91 dk"
+    },
+    {
+      "id": "tt39646510",
+      "type": "movie",
+      "name": "One Last Order",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Belgesel"
+      ],
+      "description": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ept9ZKHko1JbYPHEUxMK9cf6tzy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/juUyC5Ku9oWOjSskvE0MVmeaUAD.jpg",
+      "runtime": "20 dk"
+    },
+    {
       "id": "tt32432654",
       "type": "movie",
       "name": "Kızlar Kızları Sever",
