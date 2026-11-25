@@ -1,6 +1,65 @@
 {
   "metas": [
     {
+      "id": "tt10329560",
+      "type": "movie",
+      "name": "Atmacanın A'sı",
+      "releaseInfo": "2025",
+      "imdbRating": "7.0",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Cambridge akademisyeni Helen'in babası öldüğünde, acı onu uçuruma sürükler. Kaybını sindirme çabası içinde, korkunç bir Kuzey çakır kuşu yetiştirmek için insan dünyasından çekilir.",
+      "poster": "https://image.tmdb.org/t/p/w500/lFkq2RD6OCzllwFSjZgYR761Vjf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2nMCDgLekQA2mumJLXJvGY4RUx0.jpg",
+      "runtime": "120 dk"
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Savaşçı Çocuğun Yolu",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "genres": [
+        "Dram",
+        "Aile"
+      ],
+      "description": "Yaralı deniz komandosu Jake utangaç, zorluk çeken yeğeni Marc'ın akıl hocası olur. Jake, askerî eğitiminin prensiplerini kullanarak, liseye başlayacak olan Marc'a Savaşçı Çocuk olmayı öğretir.",
+      "poster": "https://image.tmdb.org/t/p/w500/ssnPefrZEU9cfMDISGemgCotgG4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "runtime": "106 dk"
+    },
+    {
+      "id": "tt36413910",
+      "type": "movie",
+      "name": "Savaş Kupası",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "genres": [
+        "Tarih",
+        "Dram",
+        "Savaş"
+      ],
+      "description": "Pearl Harbor'ın ardından ABD Deniz Piyadelerine katılan dört üniversite futbol yıldızı, kardeşliğin gücünü ve savaşın bedelini keşfeder.",
+      "poster": "https://image.tmdb.org/t/p/w500/unWmUCavw2KLVudh7IXTMhtT8Hz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+      "runtime": "128 dk"
+    },
+    {
+      "id": "tt32298494",
+      "type": "movie",
+      "name": "Geç Gelen Şöhret",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Uzun zaman önce Ed Saxberger, kimsenin umursamadığı bir şiir kitabı yazmıştır. Bir grup genç sanatçı onun eserini yeniden keşfettiğinde, kendi dehasını yeniden değerlendirmek zorunda kalır. Gruptaki joker karakter, yetenekli ve değişken mizaçlı bir tiyatro oyuncusu olan ve Saxberger tarafından takdir edilmeye hazır olan Gloria'dır.",
+      "poster": "https://image.tmdb.org/t/p/w500/pymRp1u2L9Py3HJ9LJltO1hbINw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vZtrJjhxMUhlnvdNd83nFJsWZsO.jpg",
+      "runtime": "97 dk"
+    },
+    {
       "id": "tt38128726",
       "type": "movie",
       "name": "Durdur! Şu! Treni!",

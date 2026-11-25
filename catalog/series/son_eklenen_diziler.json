@@ -1,6 +1,33 @@
 {
   "metas": [
     {
+      "id": "tt18224594",
+      "type": "series",
+      "name": "Blade Runner 2099: Bıçak Sırtı",
+      "releaseInfo": "2026",
+      "imdbRating": "3.8",
+      "genres": [
+        "Bilim Kurgu & Fantazi"
+      ],
+      "description": "Blade Runner 2049'daki olayların üzerinden elli yıl geçmiş, Los Angeles yeniden ayağa kalkmıştır; fakat bu kez insanlığın eseri olarak değil. Kaçmaktan yorulan ve buna son vermek için son hamlesini yapan kaçak Cora, alacağı son kimliği kabullenir: Bir Blade Runner. Ölümüne günler kalmış bir Replikant olan Olwen ile ortaklık kurmak zorunda kalan Cora, kırılgan şehirlerini çökertebilecek bir gerçeği saklayan başka bir kaçağın peşine düşer.",
+      "poster": "https://image.tmdb.org/t/p/w500/lfzZFq5TL9A78eqETEd03E7AvUO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg"
+    },
+    {
+      "id": "tt13875494",
+      "type": "series",
+      "name": "Tracker",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "description": "Bir hayatta kalma uzmanı, ödül avcısı olarak ülkeyi dolaşırken bir yanda dağılmış ailesiyle uğraşır.",
+      "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg"
+    },
+    {
       "id": "tt30051064",
       "type": "series",
       "name": "American Hostage",
