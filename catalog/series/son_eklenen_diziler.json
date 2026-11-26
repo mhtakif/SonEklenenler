@@ -1,6 +1,61 @@
 {
   "metas": [
     {
+      "id": "tt36951910",
+      "type": "series",
+      "name": "Burası Acil Servis",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Dram"
+      ],
+      "description": "Azimli sağlık çalışanlarından oluşan bir ekip, Oslo'daki yoğun bir acil serviste kişisel mücadeleler, siyasi baskılar ve ekibe yeni katılan riskli bir doktorla baş etmeye çalışır.",
+      "poster": "https://image.tmdb.org/t/p/w500/eKUPSGr2jmR3D7kANKUC3iyVi85.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7JBjCdmH8kddW41YoipVVwQJllm.jpg"
+    },
+    {
+      "id": "tt38681811",
+      "type": "series",
+      "name": "Toos: Van der Valk'ın Kaçırılması",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "description": "Yıl 1982. Hollanda'daki bir otel imparatorluğunun sahibi olan kadın fidye için kaçırılınca, çaresiz ailesi onu kurtarmaya çalışır. Gerçek bir öyküden esinlenildi.",
+      "poster": "https://image.tmdb.org/t/p/w500/nUQie3AD5pnADJ7LQg9ZJRIsjnx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5BVPUwWwVrlia7OC0dXxPEQM6Uv.jpg"
+    },
+    {
+      "id": "tt31038430",
+      "type": "series",
+      "name": "The Hunting Wives",
+      "releaseInfo": "2025",
+      "imdbRating": "7.0",
+      "genres": [
+        "Dram",
+        "Gizem"
+      ],
+      "description": "Seks, yalanlar ve dolu silahlar.\n\nSophie, New England'ı bırakıp Doğu Teksas'a taşınır ve zengin bir sosyetik kadının çekim alanına girer; burada bir grup ev hanımı ölümcül sırlar saklamaktadır.",
+      "poster": "https://image.tmdb.org/t/p/w500/iKL02GmejLCGBJr7XHU82vvqA1C.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg"
+    },
+    {
+      "id": "tt35515227",
+      "type": "series",
+      "name": "CIA",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "Suç",
+        "Dram"
+      ],
+      "description": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+      "background": "https://image.tmdb.org/t/p/original/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg"
+    },
+    {
       "id": "tt18224594",
       "type": "series",
       "name": "Blade Runner 2099: Bıçak Sırtı",

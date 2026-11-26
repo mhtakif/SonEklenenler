@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tt8879928",
+      "type": "movie",
+      "name": "Dikkat: Kıyamet!",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "genres": [
+        "Korku",
+        "Bilim-Kurgu",
+        "Komedi"
+      ],
+      "description": "Oldukça bulaşıcı ve sürekli mutasyona uğrayan bir mantar kapalı bir tesisten kaçınca, iki genç çalışan ile deneyimli bir biyoterör uzmanı güçlerini birleştirir. Mikroorganizmanın hızla yayılarak karşısına çıkan her şeyi yok ettiği, hayatlarının en çılgın gece vardiyasında, insanlığı yok oluşun eşiğinden kurtarmak için hayatta kalmak zorundadırlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/9slRK7tfDgSHgrFVH70dUz91goa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "runtime": "99 dk"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "Korku",
+        "Gizem",
+        "Bilim-Kurgu"
+      ],
+      "description": "Bir mobilya mağazasının alt katının duvarında tuhaf bir geçit bulunur.",
+      "poster": "https://image.tmdb.org/t/p/w500/pR7HAA2STN78NN7egkrp9DsKI7c.jpg",
+      "background": "https://image.tmdb.org/t/p/original/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+      "runtime": "111 dk"
+    },
+    {
       "id": "tt10329560",
       "type": "movie",
       "name": "Atmacanın A'sı",
