@@ -1,6 +1,49 @@
 {
   "metas": [
     {
+      "id": "tt36823912",
+      "type": "movie",
+      "name": "Oğlumuz",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Dram"
+      ],
+      "description": "1980'lerde Bask Bölgesi'ndeki bir okulda yaşanan gaz patlaması bir annenin hayatını mahvederken bir büyükbabayı ise inkâr dolu bir dünyaya sürükler. Gerçek olaylardan esinlenildi.",
+      "poster": "https://image.tmdb.org/t/p/w500/1GPH9kUVYJIAyuvOWAypLhvHBIj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kkierrbus8z4QpsexmSg8QSKqak.jpg"
+    },
+    {
+      "id": "tt37267166",
+      "type": "movie",
+      "name": "Notre Dame'ın Kamburu, Paris'in Ruhu",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "description": "1830'da Paris kolera salgını tehdidi altındayken üzerinde tıbbi deneyler yapılması için peşine düşülen kambur bir adam, kendini siyasi kargaşa ve imkânsız bir aşk arasında bulur.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ehMW3tG11vfyfjMmYR580Jd6fg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fILFJb7okqkNdzAataH4CxywwZX.jpg",
+      "runtime": "106 dk"
+    },
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "name": "Street Fighter",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "genres": [
+        "Aksiyon",
+        "Fantastik"
+      ],
+      "description": "Yıl 1993. Ryu ve Ken için eski defterler açılıyor. Chun-Li’nin gizemli davetiyle World Warrior turnuvasına dönen ikili, sadece rakipleriyle değil, birbirleriyle ve geçmişin karanlığıyla da savaşmak zorunda. Ya bu ölümcül komployu bozacaklar ya da GAME OVER!",
+      "poster": "https://image.tmdb.org/t/p/w500/p7rhLltWk0wx6cNB0uPl95wPTUG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+      "runtime": "120 dk"
+    },
+    {
       "id": "tt8879928",
       "type": "movie",
       "name": "Dikkat: Kıyamet!",
